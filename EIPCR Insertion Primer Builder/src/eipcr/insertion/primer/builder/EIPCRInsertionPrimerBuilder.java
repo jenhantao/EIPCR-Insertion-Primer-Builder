@@ -1,7 +1,4 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package eipcr.insertion.primer.builder;
 
 /**
@@ -11,9 +8,12 @@ package eipcr.insertion.primer.builder;
 public class EIPCRInsertionPrimerBuilder {
 
     /**
-     * @param args the command line arguments
+     * @param args no arguments, a JFileChooser will be used to select files
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Controller _controller = new Controller();
+        _controller.parseInputFile();
+        _controller.generatePrimers();
+        System.out.println(_controller.calcTempBasic("GTATCACGAGGCAGAATTTCAG"));
     }
 }
