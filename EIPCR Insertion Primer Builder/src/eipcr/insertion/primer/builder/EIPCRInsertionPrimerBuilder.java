@@ -15,7 +15,5 @@ public class EIPCRInsertionPrimerBuilder {
         _controller.setNameRoot("jt");
         _controller.parseInputFile();
         _controller.generatePrimers();
-//        System.out.println(_controller.calcTempBasic("GTATCACGAGGCAGAATTTCAG"));
-        System.out.println(_controller.generateSpacer(10));
     }
 }
