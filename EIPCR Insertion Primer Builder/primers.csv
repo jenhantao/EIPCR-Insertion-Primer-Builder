@@ -1,0 +1,481 @@
+WellPosition,Name,Sequence,Note
+A1,jt003,GAGggtctcGGTTCTtccagatataatgaaacacttttacga,#1 forward primer for insertion_site_1 | Tm=66.0 Celcius
+B1,jt004,TGCggtctcTGAGCCatttagacattcttttctattcgtctc,#1 reverse primer for insertion_site_1 | Tm=67.0 Celcius
+C1,jt005,GGTggtctcGGTTCTagatataatgaaacacttttacgaagtg,#2 forward primer for insertion_site_1 | Tm=66.0 Celcius
+D1,jt006,GATggtctcTGAGCCggaatttagacattcttttctattcgt,#2 reverse primer for insertion_site_1 | Tm=66.0 Celcius
+E1,jt007,GCGggtctcGGTTCTtataatgaaacacttttacgaagtgattat,#3 forward primer for insertion_site_1 | Tm=66.0 Celcius
+F1,jt008,CCAggtctcTGAGCCtctggaatttagacattcttttctattc,#3 reverse primer for insertion_site_1 | Tm=67.0 Celcius
+G1,jt009,ATTggtctcGGTTCTaatgaaacacttttacgaagtgattatc,#4 forward primer for insertion_site_1 | Tm=64.0 Celcius
+H1,jt010,TACggtctcTGAGCCatatctggaatttagacattcttttctatt,#4 reverse primer for insertion_site_1 | Tm=65.0 Celcius
+A2,jt011,CTTggtctcGGTTCTattaaaaataaagctggaaaaccgactaat,#1 forward primer for insertion_site_2 | Tm=65.0 Celcius
+B2,jt012,CAGggtctcTGAGCCatcccagccaagaagttcaaaaaa,#1 reverse primer for insertion_site_2 | Tm=68.0 Celcius
+C2,jt013,CGCggtctcGGTTCTaaaaataaagctggaaaaccgactaatgaa,#2 forward primer for insertion_site_2 | Tm=68.0 Celcius
+D2,jt014,TATggtctcTGAGCCaatatcccagccaagaagttcaaa,#2 reverse primer for insertion_site_2 | Tm=66.0 Celcius
+E2,jt015,AACggtctcGGTTCTaataaagctggaaaaccgactaatgaaa,#3 forward primer for insertion_site_2 | Tm=66.0 Celcius
+F2,jt016,TGCggtctcTGAGCCtttaatatcccagccaagaagttc,#3 reverse primer for insertion_site_2 | Tm=68.0 Celcius
+G2,jt017,AGCggtctcGGTTCTaaagctggaaaaccgactaatgaaag,#4 forward primer for insertion_site_2 | Tm=68.0 Celcius
+H2,jt018,GGCggtctcTGAGCCatttttaatatcccagccaagaagttc,#4 reverse primer for insertion_site_2 | Tm=69.0 Celcius
+A3,jt019,TTGggtctcGGTTCTgctggaaaaccgactaatgaaaga,#5 forward primer for insertion_site_2 | Tm=67.0 Celcius
+B3,jt020,CTTggtctcTGAGCCtttatttttaatatcccagccaagaag,#5 reverse primer for insertion_site_2 | Tm=66.0 Celcius
+C3,jt021,TCTggtctcGGTTCTggaaaaccgactaatgaaagagag,#6 forward primer for insertion_site_2 | Tm=67.0 Celcius
+D3,jt022,TCCggtctcTGAGCCagctttatttttaatatcccagccaag,#6 reverse primer for insertion_site_2 | Tm=68.0 Celcius
+E3,jt023,CGGggtctcGGTTCTaaaccgactaatgaaagagaggttgt,#7 forward primer for insertion_site_2 | Tm=69.0 Celcius
+F3,jt024,CAAggtctcTGAGCCtccagctttatttttaatatcccagc,#7 reverse primer for insertion_site_2 | Tm=67.0 Celcius
+G3,jt025,TTCggtctcGGTTCTccgactaatgaaagagaggttgt,#8 forward primer for insertion_site_2 | Tm=67.0 Celcius
+H3,jt026,CGAggtctcTGAGCCttttccagctttatttttaatatcccagc,#8 reverse primer for insertion_site_2 | Tm=68.0 Celcius
+A4,jt027,ACTggtctcGGTTCTactaatgaaagagaggttgtcttgga,#9 forward primer for insertion_site_2 | Tm=67.0 Celcius
+B4,jt028,CTTggtctcTGAGCCcggttttccagctttatttttaatatcc,#9 reverse primer for insertion_site_2 | Tm=67.0 Celcius
+C4,jt029,TCAggtctcGGTTCTaatgaaagagaggttgtcttggaaga,#10 forward primer for insertion_site_2 | Tm=67.0 Celcius
+D4,jt030,GGGggtctcTGAGCCagtcggttttccagctttatttttaatatc,#10 reverse primer for insertion_site_2 | Tm=69.0 Celcius
+E4,jt031,GTTggtctcGGTTCTgaaagagaggttgtcttggaaga,#11 forward primer for insertion_site_2 | Tm=67.0 Celcius
+F4,jt032,CAAggtctcTGAGCCattagtcggttttccagctttatttttaatat,#11 reverse primer for insertion_site_2 | Tm=66.0 Celcius
+G4,jt033,ATAggtctcGGTTCTagagaggttgtcttggaagagg,#12 forward primer for insertion_site_2 | Tm=67.0 Celcius
+H4,jt034,TGCggtctcTGAGCCttcattagtcggttttccagctttattttt,#12 reverse primer for insertion_site_2 | Tm=68.0 Celcius
+A5,jt035,GTGggtctcGGTTCTgaggttgtcttggaagaggca,#13 forward primer for insertion_site_2 | Tm=69.0 Celcius
+B5,jt036,AGCggtctcTGAGCCtctttcattagtcggttttccagctt,#13 reverse primer for insertion_site_2 | Tm=69.0 Celcius
+C5,jt037,AGCggtctcGGTTCTgttgtcttggaagaggcactt,#14 forward primer for insertion_site_2 | Tm=68.0 Celcius
+D5,jt038,TTAggtctcTGAGCCctctctttcattagtcggttttcca,#14 reverse primer for insertion_site_2 | Tm=67.0 Celcius
+E5,jt039,AATggtctcGGTTCTgtcttggaagaggcacttaaag,#15 forward primer for insertion_site_2 | Tm=66.0 Celcius
+F5,jt040,GGAggtctcTGAGCCaacctctctttcattagtcggttttc,#15 reverse primer for insertion_site_2 | Tm=69.0 Celcius
+G5,jt041,ATTggtctcGGTTCTttggaagaggcacttaaagcaag,#16 forward primer for insertion_site_2 | Tm=66.0 Celcius
+H5,jt042,GTAggtctcTGAGCCgacaacctctctttcattagtcg,#16 reverse primer for insertion_site_2 | Tm=68.0 Celcius
+A6,jt043,TAAggtctcGGTTCTgaagaggcacttaaagcaagtg,#17 forward primer for insertion_site_2 | Tm=66.0 Celcius
+B6,jt044,TAGggtctcTGAGCCcaagacaacctctctttcattagtc,#17 reverse primer for insertion_site_2 | Tm=68.0 Celcius
+C6,jt045,CGTggtctcGGTTCTgaggcacttaaagcaagtgca,#18 forward primer for insertion_site_2 | Tm=68.0 Celcius
+D6,jt046,CTCggtctcTGAGCCttccaagacaacctctctttcattag,#18 reverse primer for insertion_site_2 | Tm=69.0 Celcius
+E6,jt047,AATggtctcGGTTCTgcacttaaagcaagtgcatctg,#19 forward primer for insertion_site_2 | Tm=66.0 Celcius
+F6,jt048,GGCggtctcTGAGCCctcttccaagacaacctctcttt,#19 reverse primer for insertion_site_2 | Tm=70.0 Celcius
+G6,jt049,CCCggtctcGGTTCTtctgaacattctaaaaaaccagattatac,#1 forward primer for insertion_site_3 | Tm=67.0 Celcius
+H6,jt050,ATAggtctcTGAGCCtgcacttgctttaagtgcctc,#1 reverse primer for insertion_site_3 | Tm=67.0 Celcius
+A7,jt051,CACggtctcGGTTCTgaacattctaaaaaaccagattatacattc,#2 forward primer for insertion_site_3 | Tm=66.0 Celcius
+B7,jt052,GACggtctcTGAGCCagatgcacttgctttaagtgcc,#2 reverse primer for insertion_site_3 | Tm=69.0 Celcius
+C7,jt053,CTCggtctcGGTTCTcattctaaaaaaccagattatacattcag,#3 forward primer for insertion_site_3 | Tm=66.0 Celcius
+D7,jt054,CAAggtctcTGAGCCttcagatgcacttgctttaagtgc,#3 reverse primer for insertion_site_3 | Tm=68.0 Celcius
+E7,jt055,GAAggtctcGGTTCTtctaaaaaaccagattatacattcagac,#4 forward primer for insertion_site_3 | Tm=65.0 Celcius
+F7,jt056,ACAggtctcTGAGCCatgttcagatgcacttgctttaag,#4 reverse primer for insertion_site_3 | Tm=67.0 Celcius
+G7,jt057,CCGggtctcGGTTCTaaaaaaccagattatacattcagacttttt,#5 forward primer for insertion_site_3 | Tm=66.0 Celcius
+H7,jt058,GCTggtctcTGAGCCagaatgttcagatgcacttgcttt,#5 reverse primer for insertion_site_3 | Tm=68.0 Celcius
+A8,jt059,CCCggtctcGGTTCTaaaccagattatacattcagacttttttc,#6 forward primer for insertion_site_3 | Tm=67.0 Celcius
+B8,jt060,GCGggtctcTGAGCCtttagaatgttcagatgcacttgc,#6 reverse primer for insertion_site_3 | Tm=69.0 Celcius
+C8,jt061,GGCggtctcGGTTCTccagattatacattcagacttttttct,#7 forward primer for insertion_site_3 | Tm=67.0 Celcius
+D8,jt062,AGTggtctcTGAGCCttttttagaatgttcagatgcacttgc,#7 reverse primer for insertion_site_3 | Tm=67.0 Celcius
+E8,jt063,GAAggtctcGGTTCTgattatacattcagacttttttctgaaag,#8 forward primer for insertion_site_3 | Tm=65.0 Celcius
+F8,jt064,CCTggtctcTGAGCCtggttttttagaatgttcagatgcactt,#8 reverse primer for insertion_site_3 | Tm=68.0 Celcius
+G8,jt065,CTGggtctcGGTTCTaaggttgatggtgatgataccttt,#1 forward primer for insertion_site_5 | Tm=67.0 Celcius
+H8,jt066,CATggtctcTGAGCCtacagaggtatcataaataactaaatattc,#1 reverse primer for insertion_site_5 | Tm=65.0 Celcius
+A9,jt067,TGCggtctcGGTTCTgttgatggtgatgatacctttaataag,#2 forward primer for insertion_site_5 | Tm=67.0 Celcius
+B9,jt068,TCCggtctcTGAGCCctttacagaggtatcataaataactaaata,#2 reverse primer for insertion_site_5 | Tm=66.0 Celcius
+C9,jt069,ACAggtctcGGTTCTgatggtgatgatacctttaataagg,#3 forward primer for insertion_site_5 | Tm=66.0 Celcius
+D9,jt070,TATggtctcTGAGCCaacctttacagaggtatcataaataac,#3 reverse primer for insertion_site_5 | Tm=65.0 Celcius
+E9,jt071,TAGggtctcGGTTCTggtgatgatacctttaataaggca,#4 forward primer for insertion_site_5 | Tm=66.0 Celcius
+F9,jt072,TTGggtctcTGAGCCatcaacctttacagaggtatcataaat,#4 reverse primer for insertion_site_5 | Tm=66.0 Celcius
+G9,jt073,TAAggtctcGGTTCTgatgatacctttaataaggcacgt,#5 forward primer for insertion_site_5 | Tm=65.0 Celcius
+H9,jt074,GAAggtctcTGAGCCaccatcaacctttacagaggtatc,#5 reverse primer for insertion_site_5 | Tm=68.0 Celcius
+A10,jt075,GTGggtctcGGTTCTgatacctttaataaggcacgtataaaa,#6 forward primer for insertion_site_5 | Tm=66.0 Celcius
+B10,jt076,ACCggtctcTGAGCCatcaccatcaacctttacagaggt,#6 reverse primer for insertion_site_5 | Tm=69.0 Celcius
+C10,jt077,CCTggtctcGGTTCTacctttaataaggcacgtataaaaaaatac,#7 forward primer for insertion_site_5 | Tm=66.0 Celcius
+D10,jt078,ACTggtctcTGAGCCatcatcaccatcaacctttacagag,#7 reverse primer for insertion_site_5 | Tm=68.0 Celcius
+E10,jt079,GATggtctcGGTTCTgagtatgaaactcactttgatgaaatt,#1 forward primer for insertion_site_6 | Tm=65.0 Celcius
+F10,jt080,ATGggtctcTGAGCCtgtgtaatggtatttttttatacgtgc,#1 reverse primer for insertion_site_6 | Tm=66.0 Celcius
+G10,jt081,TACggtctcGGTTCTacgatacaagagaatgagcttaatg,#1 forward primer for insertion_site_7 | Tm=66.0 Celcius
+H10,jt082,ACTggtctcTGAGCCaggttgatacttatagatttcttcacc,#1 reverse primer for insertion_site_7 | Tm=67.0 Celcius
+A11,jt083,TTAggtctcGGTTCTatacaagagaatgagcttaatgacatt,#2 forward primer for insertion_site_7 | Tm=64.0 Celcius
+B11,jt084,AAAggtctcTGAGCCcgtaggttgatacttatagatttcttc,#2 reverse primer for insertion_site_7 | Tm=66.0 Celcius
+C11,jt085,ACGggtctcGGTTCTcaagagaatgagcttaatgacattg,#3 forward primer for insertion_site_7 | Tm=67.0 Celcius
+D11,jt086,CGCggtctcTGAGCCtatcgtaggttgatacttatagatttc,#3 reverse primer for insertion_site_7 | Tm=68.0 Celcius
+E11,jt087,TTAggtctcGGTTCTgagacttatcagacattactgaatttt,#1 forward primer for insertion_site_8 | Tm=64.0 Celcius
+F11,jt088,TGCggtctcTGAGCCtaaatttctatcttcacagactctcaa,#1 reverse primer for insertion_site_8 | Tm=67.0 Celcius
+G11,jt089,TAAggtctcGGTTCTacttatcagacattactgaattttgct,#2 forward primer for insertion_site_8 | Tm=64.0 Celcius
+H11,jt090,TAAggtctcTGAGCCctctaaatttctatcttcacagactc,#2 reverse primer for insertion_site_8 | Tm=66.0 Celcius
+A12,jt091,GACggtctcGGTTCTggcctatttgatcaattgcttaca,#1 forward primer for insertion_site_9 | Tm=67.0 Celcius
+B12,jt092,TTTggtctcTGAGCCtgaattatagcaacgatctgcctg,#1 reverse primer for insertion_site_9 | Tm=67.0 Celcius
+C12,jt093,CACggtctcGGTTCTctatttgatcaattgcttacagagc,#2 forward primer for insertion_site_9 | Tm=67.0 Celcius
+D12,jt094,GAGggtctcTGAGCCgcctgaattatagcaacgatctg,#2 reverse primer for insertion_site_9 | Tm=69.0 Celcius
+E12,jt095,GCGggtctcGGTTCTtttgatcaattgcttacagagcaaatt,#3 forward primer for insertion_site_9 | Tm=67.0 Celcius
+F12,jt096,ACGggtctcTGAGCCtaggcctgaattatagcaacgatc,#3 reverse primer for insertion_site_9 | Tm=69.0 Celcius
+G12,jt097,TAGggtctcGGTTCTgatcaattgcttacagagcaaattatt,#4 forward primer for insertion_site_9 | Tm=65.0 Celcius
+H12,jt098,GGCggtctcTGAGCCaaataggcctgaattatagcaacg,#4 reverse primer for insertion_site_9 | Tm=69.0 Celcius
+A1,jt099,AATggtctcGGTTCTcaattgcttacagagcaaattattgag,#5 forward primer for insertion_site_9 | Tm=65.0 Celcius
+B1,jt100,CGAggtctcTGAGCCatcaaataggcctgaattatagcaac,#5 reverse primer for insertion_site_9 | Tm=68.0 Celcius
+C1,jt101,TATggtctcGGTTCTttgcttacagagcaaattattgagg,#6 forward primer for insertion_site_9 | Tm=65.0 Celcius
+D1,jt102,AGTggtctcTGAGCCttgatcaaataggcctgaattatagc,#6 reverse primer for insertion_site_9 | Tm=67.0 Celcius
+E1,jt103,GAAggtctcGGTTCTcttacagagcaaattattgaggatatt,#7 forward primer for insertion_site_9 | Tm=65.0 Celcius
+F1,jt104,ATTggtctcTGAGCCcaattgatcaaataggcctgaattata,#7 reverse primer for insertion_site_9 | Tm=65.0 Celcius
+G1,jt105,GACggtctcGGTTCTacagagcaaattattgaggatattagt,#8 forward primer for insertion_site_9 | Tm=66.0 Celcius
+H1,jt106,CTCggtctcTGAGCCaagcaattgatcaaataggcctgaattata,#8 reverse primer for insertion_site_9 | Tm=68.0 Celcius
+A2,jt107,AACggtctcGGTTCTccttattcatttagtgtgttctcttc,#1 forward primer for insertion_site_10 | Tm=66.0 Celcius
+B2,jt108,CCTggtctcTGAGCCactttctggataatataattgcttaatgat,#1 reverse primer for insertion_site_10 | Tm=66.0 Celcius
+C2,jt109,TCGggtctcGGTTCTtattcatttagtgtgttctcttcgg,#2 forward primer for insertion_site_10 | Tm=67.0 Celcius
+D2,jt110,CAAggtctcTGAGCCaggactttctggataatataattgctt,#2 reverse primer for insertion_site_10 | Tm=66.0 Celcius
+E2,jt111,TTCggtctcGGTTCTtcatttagtgtgttctcttcggat,#3 forward primer for insertion_site_10 | Tm=66.0 Celcius
+F2,jt112,TGTggtctcTGAGCCataaggactttctggataatataattgc,#3 reverse primer for insertion_site_10 | Tm=66.0 Celcius
+G2,jt113,TGCggtctcGGTTCTgatatagaaattctacagctaaaatttgc,#1 forward primer for insertion_site_11 | Tm=66.0 Celcius
+H2,jt114,TTCggtctcTGAGCCtgtttttccatagcacttcggtag,#1 reverse primer for insertion_site_11 | Tm=68.0 Celcius
+A3,jt115,ACTggtctcGGTTCTatagaaattctacagctaaaatttgctg,#2 forward primer for insertion_site_11 | Tm=65.0 Celcius
+B3,jt116,AAGggtctcTGAGCCatctgtttttccatagcacttcgg,#2 reverse primer for insertion_site_11 | Tm=68.0 Celcius
+C3,jt117,GTCggtctcGGTTCTgaaattctacagctaaaatttgctgat,#3 forward primer for insertion_site_11 | Tm=66.0 Celcius
+D3,jt118,ACTggtctcTGAGCCtatatctgtttttccatagcacttcg,#3 reverse primer for insertion_site_11 | Tm=67.0 Celcius
+E3,jt119,ACCggtctcGGTTCTattctacagctaaaatttgctgatattg,#4 forward primer for insertion_site_11 | Tm=66.0 Celcius
+F3,jt120,CTTggtctcTGAGCCttctatatctgtttttccatagcactt,#4 reverse primer for insertion_site_11 | Tm=66.0 Celcius
+G3,jt121,ACAggtctcGGTTCTctacagctaaaatttgctgatattgc,#5 forward primer for insertion_site_11 | Tm=66.0 Celcius
+H3,jt122,TCTggtctcTGAGCCaatttctatatctgtttttccatagcac,#5 reverse primer for insertion_site_11 | Tm=66.0 Celcius
+A4,jt123,TTTggtctcGGTTCTcagctaaaatttgctgatattgcttg,#6 forward primer for insertion_site_11 | Tm=65.0 Celcius
+B4,jt124,CGAggtctcTGAGCCtagaatttctatatctgtttttccatagc,#6 reverse primer for insertion_site_11 | Tm=67.0 Celcius
+C4,jt125,AATggtctcGGTTCTctaaaatttgctgatattgcttgtgg,#7 forward primer for insertion_site_11 | Tm=65.0 Celcius
+D4,jt126,CCTggtctcTGAGCCctgtagaatttctatatctgtttttcc,#7 reverse primer for insertion_site_11 | Tm=67.0 Celcius
+E4,jt127,TGGggtctcGGTTCTtgtggttcgggagcatttttac,#1 forward primer for insertion_site_12 | Tm=68.0 Celcius
+F4,jt128,TTAggtctcTGAGCCagcaatatcagcaaattttagctgtag,#1 reverse primer for insertion_site_12 | Tm=66.0 Celcius
+G4,jt129,TGAggtctcGGTTCTggttcgggagcatttttactg,#2 forward primer for insertion_site_12 | Tm=67.0 Celcius
+H4,jt130,ATTggtctcTGAGCCacaagcaatatcagcaaattttagctg,#2 reverse primer for insertion_site_12 | Tm=66.0 Celcius
+A5,jt131,TGTggtctcGGTTCTtcgggagcatttttactggag,#3 forward primer for insertion_site_12 | Tm=67.0 Celcius
+B5,jt132,CAGggtctcTGAGCCaccacaagcaatatcagcaaattttag,#3 reverse primer for insertion_site_12 | Tm=68.0 Celcius
+C5,jt133,TGGggtctcGGTTCTggagcatttttactggagttgttc,#4 forward primer for insertion_site_12 | Tm=68.0 Celcius
+D5,jt134,TGTggtctcTGAGCCcgaaccacaagcaatatcagc,#4 reverse primer for insertion_site_12 | Tm=68.0 Celcius
+E5,jt135,TACggtctcGGTTCTacttataagctgtcttatgaaatcaag,#1 forward primer for insertion_site_13 | Tm=65.0 Celcius
+F5,jt136,GCAggtctcTGAGCCaccgatacctgttggaattaattg,#1 reverse primer for insertion_site_13 | Tm=68.0 Celcius
+G5,jt137,CGTggtctcGGTTCTtataagctgtcttatgaaatcaagaga,#2 forward primer for insertion_site_13 | Tm=66.0 Celcius
+H5,jt138,TACggtctcTGAGCCagtaccgatacctgttggaattaa,#2 reverse primer for insertion_site_13 | Tm=67.0 Celcius
+A6,jt139,GTTggtctcGGTTCTaagctgtcttatgaaatcaagagaaag,#3 forward primer for insertion_site_13 | Tm=66.0 Celcius
+B6,jt140,GACggtctcTGAGCCataagtaccgatacctgttggaat,#3 reverse primer for insertion_site_13 | Tm=68.0 Celcius
+C6,jt141,ATCggtctcGGTTCTctgtcttatgaaatcaagagaaagg,#4 forward primer for insertion_site_13 | Tm=66.0 Celcius
+D6,jt142,AGTggtctcTGAGCCcttataagtaccgatacctgttgg,#4 reverse primer for insertion_site_13 | Tm=68.0 Celcius
+E6,jt143,ATTggtctcGGTTCTtcttatgaaatcaagagaaaggttcta,#5 forward primer for insertion_site_13 | Tm=64.0 Celcius
+F6,jt144,CCTggtctcTGAGCCcagcttataagtaccgatacctg,#5 reverse primer for insertion_site_13 | Tm=69.0 Celcius
+G6,jt145,TGAggtctcGGTTCTgacgtacaatctatagctaatattaga,#1 forward primer for insertion_site_14 | Tm=65.0 Celcius
+H6,jt146,AACggtctcTGAGCCttcaccctctaataattttagcaacaa,#1 reverse primer for insertion_site_14 | Tm=66.0 Celcius
+A7,jt147,CCCggtctcGGTTCTgtacaatctatagctaatattagacca,#2 forward primer for insertion_site_14 | Tm=67.0 Celcius
+B7,jt148,ATGggtctcTGAGCCgtcttcaccctctaataattttagc,#2 reverse primer for insertion_site_14 | Tm=67.0 Celcius
+C7,jt149,CTAggtctcGGTTCTcaatctatagctaatattagaccagtt,#3 forward primer for insertion_site_14 | Tm=65.0 Celcius
+D7,jt150,GCCggtctcTGAGCCtacgtcttcaccctctaataattttag,#3 reverse primer for insertion_site_14 | Tm=69.0 Celcius
+E7,jt151,ACTggtctcGGTTCTagtttattagaaccagaaaaagtcgag,#1 forward primer for insertion_site_15 | Tm=66.0 Celcius
+F7,jt152,GCTggtctcTGAGCCgttaccaaaaagtatgttatctaataaatc,#1 reverse primer for insertion_site_15 | Tm=66.0 Celcius
+G7,jt153,GTAggtctcGGTTCTttattagaaccagaaaaagtcgagc,#2 forward primer for insertion_site_15 | Tm=66.0 Celcius
+H7,jt154,TTAggtctcTGAGCCactgttaccaaaaagtatgttatctaataa,#2 reverse primer for insertion_site_15 | Tm=64.0 Celcius
+A8,jt155,CTGggtctcGGTTCTttagaaccagaaaaagtcgagctt,#3 forward primer for insertion_site_15 | Tm=67.0 Celcius
+B8,jt156,AGCggtctcTGAGCCtaaactgttaccaaaaagtatgttatctaa,#3 reverse primer for insertion_site_15 | Tm=66.0 Celcius
+C8,jt157,ACGggtctcGGTTCTgaaccagaaaaagtcgagcttg,#4 forward primer for insertion_site_15 | Tm=68.0 Celcius
+D8,jt158,GCGggtctcTGAGCCtaataaactgttaccaaaaagtatgttatc,#4 reverse primer for insertion_site_15 | Tm=67.0 Celcius
+E8,jt159,CAGggtctcGGTTCTccagaaaaagtcgagcttgatc,#5 forward primer for insertion_site_15 | Tm=68.0 Celcius
+F8,jt160,CACggtctcTGAGCCttctaataaactgttaccaaaaagtatgtt,#5 reverse primer for insertion_site_15 | Tm=66.0 Celcius
+G8,jt161,TGCggtctcGGTTCTgaaaaagtcgagcttgatcatcag,#6 forward primer for insertion_site_15 | Tm=68.0 Celcius
+H8,jt162,GCGggtctcTGAGCCtggttctaataaactgttaccaaaaag,#6 reverse primer for insertion_site_15 | Tm=68.0 Celcius
+A9,jt163,GGGggtctcGGTTCTaaagtcgagcttgatcatcagg,#7 forward primer for insertion_site_15 | Tm=69.0 Celcius
+B9,jt164,CTTggtctcTGAGCCttctggttctaataaactgttaccaaa,#7 reverse primer for insertion_site_15 | Tm=66.0 Celcius
+C9,jt165,GTAggtctcGGTTCTgtcgagcttgatcatcaggta,#8 forward primer for insertion_site_15 | Tm=67.0 Celcius
+D9,jt166,ATAggtctcTGAGCCtttttctggttctaataaactgttaccaaa,#8 reverse primer for insertion_site_15 | Tm=65.0 Celcius
+E9,jt167,TGTggtctcGGTTCTtcGGATCTGaaAtttgatgtaattgtt,#1 forward primer for insertion_site_16 | Tm=65.0 Celcius
+F9,jt168,TTCggtctcTGAGCCaaaatctaacggatttacttctacctg,#1 reverse primer for insertion_site_16 | Tm=67.0 Celcius
+G9,jt169,GGGggtctcGGTTCTGATCTGaaAtttgatgtaattgttggc,#2 forward primer for insertion_site_16 | Tm=68.0 Celcius
+H9,jt170,GCCggtctcTGAGCCCgaaaaatctaacggatttacttctac,#2 reverse primer for insertion_site_16 | Tm=69.0 Celcius
+A10,jt171,CTGggtctcGGTTCTCTGaaAtttgatgtaattgttggcaac,#3 forward primer for insertion_site_16 | Tm=67.0 Celcius
+B10,jt172,AGCggtctcTGAGCCATCCgaaaaatctaacggatttacttc,#3 reverse primer for insertion_site_16 | Tm=68.0 Celcius
+C10,jt173,GGAggtctcGGTTCTaaAtttgatgtaattgttggcaaccc,#4 forward primer for insertion_site_16 | Tm=67.0 Celcius
+D10,jt174,GAAggtctcTGAGCCCAGATCCgaaaaatctaacggatt,#4 reverse primer for insertion_site_16 | Tm=67.0 Celcius
+E10,jt175,TGAggtctcGGTTCTtatatgaaatcagaggatatgaagaatattact,#1 forward primer for insertion_site_17 | Tm=65.0 Celcius
+F10,jt176,GCGggtctcTGAGCCtggagggttgccaacaattac,#1 reverse primer for insertion_site_17 | Tm=71.0 Celcius
+G10,jt177,CCTggtctcGGTTCTatgaaatcagaggatatgaagaatattact,#2 forward primer for insertion_site_17 | Tm=66.0 Celcius
+H10,jt178,GAAggtctcTGAGCCatatggagggttgccaacaattac,#2 reverse primer for insertion_site_17 | Tm=68.0 Celcius
+A11,jt179,AGCggtctcGGTTCTaaatcagaggatatgaagaatattactc,#3 forward primer for insertion_site_17 | Tm=66.0 Celcius
+B11,jt180,GTTggtctcTGAGCCcatatatggagggttgccaac,#3 reverse primer for insertion_site_17 | Tm=68.0 Celcius
+C11,jt181,AGAggtctcGGTTCTtcagaggatatgaagaatattactcc,#4 forward primer for insertion_site_17 | Tm=66.0 Celcius
+D11,jt182,GGCggtctcTGAGCCtttcatatatggagggttgccaac,#4 reverse primer for insertion_site_17 | Tm=70.0 Celcius
+E11,jt183,CCTggtctcGGTTCTgaggatatgaagaatattactcctttg,#5 forward primer for insertion_site_17 | Tm=67.0 Celcius
+F11,jt184,AGGggtctcTGAGCCtgatttcatatatggagggttgcc,#5 reverse primer for insertion_site_17 | Tm=69.0 Celcius
+G11,jt185,TATggtctcGGTTCTgatatgaagaatattactcctttggag,#6 forward primer for insertion_site_17 | Tm=65.0 Celcius
+H11,jt186,AAAggtctcTGAGCCctctgatttcatatatggagggtt,#6 reverse primer for insertion_site_17 | Tm=66.0 Celcius
+A12,jt187,ATAggtctcGGTTCTatgaagaatattactcctttggagtta,#7 forward primer for insertion_site_17 | Tm=64.0 Celcius
+B12,jt188,GTGggtctcTGAGCCatcctctgatttcatatatggagggt,#7 reverse primer for insertion_site_17 | Tm=69.0 Celcius
+C12,jt189,TTGggtctcGGTTCTaagaatattactcctttggagttacc,#8 forward primer for insertion_site_17 | Tm=66.0 Celcius
+D12,jt190,ATTggtctcTGAGCCcatatcctctgatttcatatatggag,#8 reverse primer for insertion_site_17 | Tm=66.0 Celcius
+E12,jt191,GCTggtctcGGTTCTaatattactcctttggagttaccttta,#9 forward primer for insertion_site_17 | Tm=66.0 Celcius
+F12,jt192,ACTggtctcTGAGCCcttcatatcctctgatttcatatatgga,#9 reverse primer for insertion_site_17 | Tm=67.0 Celcius
+G12,jt193,ACCggtctcGGTTCTattactcctttggagttacctttatat,#10 forward primer for insertion_site_17 | Tm=66.0 Celcius
+H12,jt194,TATggtctcTGAGCCattcttcatatcctctgatttcatatatgg,#10 reverse primer for insertion_site_17 | Tm=66.0 Celcius
+A1,jt195,CCAggtctcGGTTCTactcctttggagttacctttatataag,#11 forward primer for insertion_site_17 | Tm=67.0 Celcius
+B1,jt196,AGGggtctcTGAGCCaatattcttcatatcctctgatttcatatatg,#11 reverse primer for insertion_site_17 | Tm=67.0 Celcius
+C1,jt197,GGGggtctcGGTTCTtctgcttataagcaatttgataaatatttc,#1 forward primer for insertion_site_18 | Tm=66.0 Celcius
+D1,jt198,TTCggtctcTGAGCCaacatagtttttcttatataaaggtaactc,#1 reverse primer for insertion_site_18 | Tm=65.0 Celcius
+E1,jt199,GACggtctcGGTTCTgcttataagcaatttgataaatatttcttg,#2 forward primer for insertion_site_18 | Tm=65.0 Celcius
+F1,jt200,CCTggtctcTGAGCCagaaacatagtttttcttatataaaggtaac,#2 reverse primer for insertion_site_18 | Tm=66.0 Celcius
+G1,jt201,TAAggtctcGGTTCTtataagcaatttgataaatatttcttgttcttag,#3 forward primer for insertion_site_18 | Tm=63.0 Celcius
+H1,jt202,ACCggtctcTGAGCCagcagaaacatagtttttcttatataaagg,#3 reverse primer for insertion_site_18 | Tm=67.0 Celcius
+A2,jt203,CTCggtctcGGTTCTaagcaatttgataaatatttcttgttcttag,#4 forward primer for insertion_site_18 | Tm=65.0 Celcius
+B2,jt204,GATggtctcTGAGCCataagcagaaacatagtttttcttatataaag,#4 reverse primer for insertion_site_18 | Tm=65.0 Celcius
+C2,jt205,CGTggtctcGGTTCTcaatttgataaatatttcttgttcttagag,#5 forward primer for insertion_site_18 | Tm=65.0 Celcius
+D2,jt206,TCCggtctcTGAGCCcttataagcagaaacatagtttttcttata,#5 reverse primer for insertion_site_18 | Tm=66.0 Celcius
+E2,jt207,CCCggtctcGGTTCTtttgataaatatttcttgttcttagagcg,#6 forward primer for insertion_site_18 | Tm=67.0 Celcius
+F2,jt208,GGTggtctcTGAGCCttgcttataagcagaaacatagtttttc,#6 reverse primer for insertion_site_18 | Tm=67.0 Celcius
+G2,jt209,GCCggtctcGGTTCTgataaatatttcttgttcttagagcgg,#7 forward primer for insertion_site_18 | Tm=68.0 Celcius
+H2,jt210,ATTggtctcTGAGCCaaattgcttataagcagaaacatagttttt,#7 reverse primer for insertion_site_18 | Tm=64.0 Celcius
+A3,jt211,GGTggtctcGGTTCTaatcaaatatttcaggataaaacaacttatac,#1 forward primer for insertion_site_19 | Tm=65.0 Celcius
+B3,jt212,CTTggtctcTGAGCCagcaccaaaagaaacaatagagtc,#1 reverse primer for insertion_site_19 | Tm=67.0 Celcius
+C3,jt213,TCAggtctcGGTTCTcaaatatttcaggataaaacaacttatact,#2 forward primer for insertion_site_19 | Tm=64.0 Celcius
+D3,jt214,ACTggtctcTGAGCCattagcaccaaaagaaacaatagagtc,#2 reverse primer for insertion_site_19 | Tm=67.0 Celcius
+E3,jt215,CTCggtctcGGTTCTatatttcaggataaaacaacttatacttgt,#3 forward primer for insertion_site_19 | Tm=65.0 Celcius
+F3,jt216,CTTggtctcTGAGCCttgattagcaccaaaagaaacaataga,#3 reverse primer for insertion_site_19 | Tm=66.0 Celcius
+G3,jt217,GCGggtctcGGTTCTtttcaggataaaacaacttatacttgttta,#4 forward primer for insertion_site_19 | Tm=66.0 Celcius
+H3,jt218,AATggtctcTGAGCCtatttgattagcaccaaaagaaacaatag,#4 reverse primer for insertion_site_19 | Tm=65.0 Celcius
+A4,jt219,TTCggtctcGGTTCTcaggataaaacaacttatacttgtttac,#5 forward primer for insertion_site_19 | Tm=65.0 Celcius
+B4,jt220,CCCggtctcTGAGCCaaatatttgattagcaccaaaagaaacaat,#5 reverse primer for insertion_site_19 | Tm=67.0 Celcius
+C4,jt221,ATCggtctcGGTTCTgataaaacaacttatacttgtttacttattttaa,#6 forward primer for insertion_site_19 | Tm=63.0 Celcius
+D4,jt222,TACggtctcTGAGCCctgaaatatttgattagcaccaaaaga,#6 reverse primer for insertion_site_19 | Tm=66.0 Celcius
+E4,jt223,CCCggtctcGGTTCTaaaacaacttatacttgtttacttattttaagaa,#7 forward primer for insertion_site_19 | Tm=65.0 Celcius
+F4,jt224,CAAggtctcTGAGCCatcctgaaatatttgattagcaccaaa,#7 reverse primer for insertion_site_19 | Tm=66.0 Celcius
+G4,jt225,GCGggtctcGGTTCTacaacttatacttgtttacttattttaagaaaaa,#8 forward primer for insertion_site_19 | Tm=65.0 Celcius
+H4,jt226,GCGggtctcTGAGCCtttatcctgaaatatttgattagcaccaaa,#8 reverse primer for insertion_site_19 | Tm=68.0 Celcius
+A5,jt227,ACTggtctcGGTTCTacttatacttgtttacttattttaagaaaaactc,#9 forward primer for insertion_site_19 | Tm=64.0 Celcius
+B5,jt228,TTTggtctcTGAGCCtgttttatcctgaaatatttgattagcacc,#9 reverse primer for insertion_site_19 | Tm=66.0 Celcius
+C5,jt229,GGCggtctcGGTTCTtatacttgtttacttattttaagaaaaactcc,#10 forward primer for insertion_site_19 | Tm=66.0 Celcius
+D5,jt230,AGGggtctcTGAGCCagttgttttatcctgaaatatttgattagca,#10 reverse primer for insertion_site_19 | Tm=67.0 Celcius
+E5,jt231,ACAggtctcGGTTCTcatactgattttaaatatgcagaggtt,#1 forward primer for insertion_site_20 | Tm=65.0 Celcius
+F5,jt232,ATCggtctcTGAGCCTggagtttttcttaaaataagtaaacaagt,#1 reverse primer for insertion_site_20 | Tm=65.0 Celcius
+G5,jt233,TGTggtctcGGTTCTactgattttaaatatgcagaggttcg,#2 forward primer for insertion_site_20 | Tm=66.0 Celcius
+H5,jt234,TGTggtctcTGAGCCatgTggagtttttcttaaaataagtaaaca,#2 reverse primer for insertion_site_20 | Tm=65.0 Celcius
+A6,jt235,GAAggtctcGGTTCTgattttaaatatgcagaggttcgtaat,#3 forward primer for insertion_site_20 | Tm=65.0 Celcius
+B6,jt236,ATTggtctcTGAGCCagtatgTggagtttttcttaaaataagtaa,#3 reverse primer for insertion_site_20 | Tm=64.0 Celcius
+C6,jt237,TCTggtctcGGTTCTtttaaatatgcagaggttcgtaatttaatt,#4 forward primer for insertion_site_20 | Tm=64.0 Celcius
+D6,jt238,GCGggtctcTGAGCCatcagtatgTggagtttttcttaaaataag,#4 reverse primer for insertion_site_20 | Tm=68.0 Celcius
+E6,jt239,TCTggtctcGGTTCTtggaaagtgcgtaaagctgatg,#1 forward primer for insertion_site_21 | Tm=67.0 Celcius
+F6,jt240,ATCggtctcTGAGCCgtcaattaaattacgaacctctgc,#1 reverse primer for insertion_site_21 | Tm=67.0 Celcius
+G6,jt241,TTAggtctcGGTTCTaaagtgcgtaaagctgatgctatg,#2 forward primer for insertion_site_21 | Tm=66.0 Celcius
+H6,jt242,TAGggtctcTGAGCCccagtcaattaaattacgaacctc,#2 reverse primer for insertion_site_21 | Tm=67.0 Celcius
+A7,jt243,GTCggtctcGGTTCTgtgcgtaaagctgatgctatg,#3 forward primer for insertion_site_21 | Tm=68.0 Celcius
+B7,jt244,TTAggtctcTGAGCCtttccagtcaattaaattacgaacctc,#3 reverse primer for insertion_site_21 | Tm=66.0 Celcius
+C7,jt245,GGCggtctcGGTTCTcgtaaagctgatgctatggaattt,#4 forward primer for insertion_site_21 | Tm=68.0 Celcius
+D7,jt246,TACggtctcTGAGCCcactttccagtcaattaaattacgaac,#4 reverse primer for insertion_site_21 | Tm=67.0 Celcius
+E7,jt247,CCTggtctcGGTTCTaaagctgatgctatggaattttcc,#5 forward primer for insertion_site_21 | Tm=67.0 Celcius
+F7,jt248,GAAggtctcTGAGCCacgcactttccagtcaattaaattac,#5 reverse primer for insertion_site_21 | Tm=67.0 Celcius
+G7,jt249,GGGggtctcGGTTCTgctgatgctatggaattttcctc,#6 forward primer for insertion_site_21 | Tm=69.0 Celcius
+H7,jt250,TCGggtctcTGAGCCtttacgcactttccagtcaattaaatt,#6 reverse primer for insertion_site_21 | Tm=67.0 Celcius
+A8,jt251,CGAggtctcGGTTCTgatgctatggaattttcctctcaa,#7 forward primer for insertion_site_21 | Tm=67.0 Celcius
+B8,jt252,TGAggtctcTGAGCCagctttacgcactttccagtcaatta,#7 reverse primer for insertion_site_21 | Tm=68.0 Celcius
+C8,jt253,AAGggtctcGGTTCTgctatggaattttcctctcaacaa,#8 forward primer for insertion_site_21 | Tm=66.0 Celcius
+D8,jt254,GCTggtctcTGAGCCatcagctttacgcactttccagt,#8 reverse primer for insertion_site_21 | Tm=69.0 Celcius
+E8,jt255,CATggtctcGGTTCTatggaattttcctctcaacaactg,#9 forward primer for insertion_site_21 | Tm=66.0 Celcius
+F8,jt256,TTCggtctcTGAGCCagcatcagctttacgcactttc,#9 reverse primer for insertion_site_21 | Tm=68.0 Celcius
+G8,jt257,CATggtctcGGTTCTgatgcgtggattttaattccatct,#1 forward primer for insertion_site_22 | Tm=66.0 Celcius
+H8,jt258,CCAggtctcTGAGCCactttgcaatgtactcagttgttg,#1 reverse primer for insertion_site_22 | Tm=68.0 Celcius
+A9,jt259,ATTggtctcGGTTCTgcgtggattttaattccatctgaa,#2 forward primer for insertion_site_22 | Tm=65.0 Celcius
+B9,jt260,CGAggtctcTGAGCCatcactttgcaatgtactcagttg,#2 reverse primer for insertion_site_22 | Tm=68.0 Celcius
+C9,jt261,CTTggtctcGGTTCTtggattttaattccatctgaattaatctc,#3 forward primer for insertion_site_22 | Tm=65.0 Celcius
+D9,jt262,GGCggtctcTGAGCCcgcatcactttgcaatgtactc,#3 reverse primer for insertion_site_22 | Tm=70.0 Celcius
+E9,jt263,ATAggtctcGGTTCTattttaattccatctgaattaatctcagtt,#4 forward primer for insertion_site_22 | Tm=63.0 Celcius
+F9,jt264,CCTggtctcTGAGCCccacgcatcactttgcaatgt,#4 reverse primer for insertion_site_22 | Tm=69.0 Celcius
+G9,jt265,CTAggtctcGGTTCTttaattccatctgaattaatctcagtttat,#5 forward primer for insertion_site_22 | Tm=64.0 Celcius
+H9,jt266,GCAggtctcTGAGCCaatccacgcatcactttgcaatg,#5 reverse primer for insertion_site_22 | Tm=69.0 Celcius
+A10,jt267,TGAggtctcGGTTCTattccatctgaattaatctcagtttatc,#6 forward primer for insertion_site_22 | Tm=65.0 Celcius
+B10,jt268,ATGggtctcTGAGCCtaaaatccacgcatcactttgcaa,#6 reverse primer for insertion_site_22 | Tm=67.0 Celcius
+C10,jt269,GAGggtctcGGTTCTccatctgaattaatctcagtttatcat,#7 forward primer for insertion_site_22 | Tm=66.0 Celcius
+D10,jt270,TTTggtctcTGAGCCaattaaaatccacgcatcactttgcaa,#7 reverse primer for insertion_site_22 | Tm=66.0 Celcius
+E10,jt271,AGTggtctcGGTTCTgataatatatttaatgggattcaaaccagt,#1 forward primer for insertion_site_23 | Tm=65.0 Celcius
+F10,jt272,CACggtctcTGAGCCaataccgacaatatcctctagctt,#1 reverse primer for insertion_site_23 | Tm=68.0 Celcius
+G10,jt273,GATggtctcGGTTCTaatatatttaatgggattcaaaccagtgct,#2 forward primer for insertion_site_23 | Tm=66.0 Celcius
+H10,jt274,GAGggtctcTGAGCCatcaataccgacaatatcctctag,#2 reverse primer for insertion_site_23 | Tm=68.0 Celcius
+A11,jt275,ACAggtctcGGTTCTatatttaatgggattcaaaccagtgctaat,#3 forward primer for insertion_site_23 | Tm=66.0 Celcius
+B11,jt276,ATTggtctcTGAGCCattatcaataccgacaatatcctctag,#3 reverse primer for insertion_site_23 | Tm=66.0 Celcius
+C11,jt277,TACggtctcGGTTCTtttaatgggattcaaaccagtgctaat,#4 forward primer for insertion_site_23 | Tm=66.0 Celcius
+D11,jt278,GTGggtctcTGAGCCtatattatcaataccgacaatatcctc,#4 reverse primer for insertion_site_23 | Tm=67.0 Celcius
+E11,jt279,CCAggtctcGGTTCTaatgggattcaaaccagtgctaatga,#5 forward primer for insertion_site_23 | Tm=68.0 Celcius
+F11,jt280,CAGggtctcTGAGCCaaatatattatcaataccgacaatatcctc,#5 reverse primer for insertion_site_23 | Tm=67.0 Celcius
+G11,jt281,CACggtctcGGTTCTgggattcaaaccagtgctaatgat,#6 forward primer for insertion_site_23 | Tm=68.0 Celcius
+H11,jt282,AACggtctcTGAGCCattaaatatattatcaataccgacaatatcc,#6 reverse primer for insertion_site_23 | Tm=65.0 Celcius
+A12,jt283,TTCggtctcGGTTCTattcaaaccagtgctaatgatgtc,#7 forward primer for insertion_site_23 | Tm=66.0 Celcius
+B12,jt284,CGCggtctcTGAGCCcccattaaatatattatcaataccgac,#7 reverse primer for insertion_site_23 | Tm=68.0 Celcius
+C12,jt285,TGAggtctcGGTTCTcaaaccagtgctaatgatgtctat,#8 forward primer for insertion_site_23 | Tm=66.0 Celcius
+D12,jt286,CCGggtctcTGAGCCaatcccattaaatatattatcaataccgac,#8 reverse primer for insertion_site_23 | Tm=68.0 Celcius
+E12,jt287,ACGggtctcGGTTCTaccagtgctaatgatgtctatattttt,#9 forward primer for insertion_site_23 | Tm=66.0 Celcius
+F12,jt288,AAAggtctcTGAGCCttgaatcccattaaatatattatcaataccga,#9 reverse primer for insertion_site_23 | Tm=65.0 Celcius
+G12,jt289,GCCggtctcGGTTCTagtgctaatgatgtctatatttttgtg,#10 forward primer for insertion_site_23 | Tm=67.0 Celcius
+H12,jt290,TGAggtctcTGAGCCggtttgaatcccattaaatatattatcaatac,#10 reverse primer for insertion_site_23 | Tm=66.0 Celcius
+A1,jt291,GTTggtctcGGTTCTgctaatgatgtctatatttttgtgcc,#11 forward primer for insertion_site_23 | Tm=66.0 Celcius
+B1,jt292,CAAggtctcTGAGCCactggtttgaatcccattaaatatattatcaata,#11 reverse primer for insertion_site_23 | Tm=66.0 Celcius
+C1,jt293,GCTggtctcGGTTCTaatgatgtctatatttttgtgccaact,#12 forward primer for insertion_site_23 | Tm=66.0 Celcius
+D1,jt294,ATAggtctcTGAGCCagcactggtttgaatcccattaaatatatt,#12 reverse primer for insertion_site_23 | Tm=66.0 Celcius
+E1,jt295,GGAggtctcGGTTCTgatgtctatatttttgtgccaactc,#13 forward primer for insertion_site_23 | Tm=67.0 Celcius
+F1,jt296,AGGggtctcTGAGCCattagcactggtttgaatcccattaaatat,#13 reverse primer for insertion_site_23 | Tm=68.0 Celcius
+G1,jt297,ACCggtctcGGTTCTgtctatatttttgtgccaactcatg,#14 forward primer for insertion_site_23 | Tm=67.0 Celcius
+H1,jt298,GGGggtctcTGAGCCatcattagcactggtttgaatcccat,#14 reverse primer for insertion_site_23 | Tm=70.0 Celcius
+A2,jt299,ACAggtctcGGTTCTaagaaaggacaagagtacaaaattgaa,#1 forward primer for insertion_site_24 | Tm=65.0 Celcius
+B2,jt300,GATggtctcTGAGCCtataaaataatagttttcagtatcctcatg,#1 reverse primer for insertion_site_24 | Tm=65.0 Celcius
+C2,jt301,GCTggtctcGGTTCTaaaggacaagagtacaaaattgaaaag,#2 forward primer for insertion_site_24 | Tm=66.0 Celcius
+D2,jt302,GGGggtctcTGAGCCctttataaaataatagttttcagtatcctc,#2 reverse primer for insertion_site_24 | Tm=67.0 Celcius
+E2,jt303,TATggtctcGGTTCTggacaagagtacaaaattgaaaagg,#3 forward primer for insertion_site_24 | Tm=65.0 Celcius
+F2,jt304,CGTggtctcTGAGCCtttctttataaaataatagttttcagtatcctc,#3 reverse primer for insertion_site_24 | Tm=66.0 Celcius
+G2,jt305,TCTggtctcGGTTCTcaagagtacaaaattgaaaaggaaattac,#4 forward primer for insertion_site_24 | Tm=65.0 Celcius
+H2,jt306,TCCggtctcTGAGCCtcctttctttataaaataatagttttcagtatc,#4 reverse primer for insertion_site_24 | Tm=66.0 Celcius
+A3,jt307,TAAggtctcGGTTCTgagtacaaaattgaaaaggaaattacg,#5 forward primer for insertion_site_24 | Tm=64.0 Celcius
+B3,jt308,AGGggtctcTGAGCCttgtcctttctttataaaataatagttttcag,#5 reverse primer for insertion_site_24 | Tm=66.0 Celcius
+C3,jt309,TTCggtctcGGTTCTtacaaaattgaaaaggaaattacgaagc,#6 forward primer for insertion_site_24 | Tm=65.0 Celcius
+D3,jt310,CGCggtctcTGAGCCctcttgtcctttctttataaaataatagtt,#6 reverse primer for insertion_site_24 | Tm=67.0 Celcius
+E3,jt311,CTAggtctcGGTTCTaaaattgaaaaggaaattacgaagcct,#7 forward primer for insertion_site_24 | Tm=65.0 Celcius
+F3,jt312,ATGggtctcTGAGCCgtactcttgtcctttctttataaaataata,#7 reverse primer for insertion_site_24 | Tm=65.0 Celcius
+G3,jt313,GTGggtctcGGTTCTattgaaaaggaaattacgaagccttat,#8 forward primer for insertion_site_24 | Tm=66.0 Celcius
+H3,jt314,TTAggtctcTGAGCCtttgtactcttgtcctttctttataaaata,#8 reverse primer for insertion_site_24 | Tm=64.0 Celcius
+A4,jt315,AATggtctcGGTTCTacgagtggtgaggataacttatat,#1 forward primer for insertion_site_25 | Tm=65.0 Celcius
+B4,jt316,ATCggtctcTGAGCCtgttttaaaataaggcttcgtaatttcc,#1 reverse primer for insertion_site_25 | Tm=66.0 Celcius
+C4,jt317,TGCggtctcGGTTCTagtggtgaggataacttatatacttac,#2 forward primer for insertion_site_25 | Tm=67.0 Celcius
+D4,jt318,CTTggtctcTGAGCCcgttgttttaaaataaggcttcgtaat,#2 reverse primer for insertion_site_25 | Tm=66.0 Celcius
+E4,jt319,TCCggtctcGGTTCTggtgaggataacttatatacttacc,#3 forward primer for insertion_site_25 | Tm=67.0 Celcius
+F4,jt320,AAGggtctcTGAGCCactcgttgttttaaaataaggcttcg,#3 reverse primer for insertion_site_25 | Tm=67.0 Celcius
+G4,jt321,AAGggtctcGGTTCTgaggataacttatatacttaccgtac,#4 forward primer for insertion_site_25 | Tm=66.0 Celcius
+H4,jt322,TGGggtctcTGAGCCaccactcgttgttttaaaataaggc,#4 reverse primer for insertion_site_25 | Tm=68.0 Celcius
+A5,jt323,GCGggtctcGGTTCTgataacttatatacttaccgtactttc,#5 forward primer for insertion_site_25 | Tm=67.0 Celcius
+B5,jt324,ACAggtctcTGAGCCctcaccactcgttgttttaaaataag,#5 reverse primer for insertion_site_25 | Tm=67.0 Celcius
+C5,jt325,GGAggtctcGGTTCTcgtactttcaagcctaatgcc,#1 forward primer for insertion_site_26 | Tm=68.0 Celcius
+D5,jt326,AGAggtctcTGAGCCgtaagtatataagttatcctcaccac,#1 reverse primer for insertion_site_26 | Tm=67.0 Celcius
+E5,jt327,TTTggtctcGGTTCTactttcaagcctaatgcccga,#2 forward primer for insertion_site_26 | Tm=66.0 Celcius
+F5,jt328,GCTggtctcTGAGCCacggtaagtatataagttatcctcac,#2 reverse primer for insertion_site_26 | Tm=68.0 Celcius
+G5,jt329,TAGggtctcGGTTCTttcaagcctaatgcccgagtc,#3 forward primer for insertion_site_26 | Tm=68.0 Celcius
+H5,jt330,CCCggtctcTGAGCCagtacggtaagtatataagttatcctc,#3 reverse primer for insertion_site_26 | Tm=69.0 Celcius
+A6,jt331,ATTggtctcGGTTCTaagcctaatgcccgagtcatt,#4 forward primer for insertion_site_26 | Tm=66.0 Celcius
+B6,jt332,GTAggtctcTGAGCCgaaagtacggtaagtatataagttatc,#4 reverse primer for insertion_site_26 | Tm=66.0 Celcius
+C6,jt333,CAAggtctcGGTTCTcctaatgcccgagtcatttatc,#5 forward primer for insertion_site_26 | Tm=67.0 Celcius
+D6,jt334,GGCggtctcTGAGCCcttgaaagtacggtaagtatataagtt,#5 reverse primer for insertion_site_26 | Tm=68.0 Celcius
+E6,jt335,CAGggtctcGGTTCTaatgcccgagtcatttatccg,#6 forward primer for insertion_site_26 | Tm=68.0 Celcius
+F6,jt336,AGAggtctcTGAGCCaggcttgaaagtacggtaagtata,#6 reverse primer for insertion_site_26 | Tm=67.0 Celcius
+G6,jt337,GGCggtctcGGTTCTcctaaaacaacaaatgaatggcatag,#1 forward primer for insertion_site_27 | Tm=68.0 Celcius
+H6,jt338,ATCggtctcTGAGCCtctaggttttatatctcgtttggg,#1 reverse primer for insertion_site_27 | Tm=67.0 Celcius
+A7,jt339,CTCggtctcGGTTCTaaaacaacaaatgaatggcataggtat,#2 forward primer for insertion_site_27 | Tm=66.0 Celcius
+B7,jt340,GCGggtctcTGAGCCaggtctaggttttatatctcgtttg,#2 reverse primer for insertion_site_27 | Tm=69.0 Celcius
+C7,jt341,AAGggtctcGGTTCTacaacaaatgaatggcataggtatg,#3 forward primer for insertion_site_27 | Tm=66.0 Celcius
+D7,jt342,TTAggtctcTGAGCCtttaggtctaggttttatatctcgttt,#3 reverse primer for insertion_site_27 | Tm=65.0 Celcius
+E7,jt343,ACCggtctcGGTTCTacaaatgaatggcataggtatgga,#4 forward primer for insertion_site_27 | Tm=67.0 Celcius
+F7,jt344,CTGggtctcTGAGCCtgttttaggtctaggttttatatctcg,#4 reverse primer for insertion_site_27 | Tm=68.0 Celcius
+G7,jt345,ATGggtctcGGTTCTaatgaatggcataggtatggacg,#5 forward primer for insertion_site_27 | Tm=67.0 Celcius
+H7,jt346,GTTggtctcTGAGCCtgttgttttaggtctaggttttatatc,#5 reverse primer for insertion_site_27 | Tm=66.0 Celcius
+A8,jt347,GTAggtctcGGTTCTgaatggcataggtatggacgg,#6 forward primer for insertion_site_27 | Tm=68.0 Celcius
+B8,jt348,GCTggtctcTGAGCCatttgttgttttaggtctaggttttatatc,#6 reverse primer for insertion_site_27 | Tm=67.0 Celcius
+C8,jt349,ACAggtctcGGTTCTcagaaaattattgtaggtgtgctttc,#1 forward primer for insertion_site_28 | Tm=66.0 Celcius
+D8,jt350,TCCggtctcTGAGCCactcaacccacaattatcgagac,#1 reverse primer for insertion_site_28 | Tm=69.0 Celcius
+E8,jt351,GACggtctcGGTTCTaaaattattgtaggtgtgctttcagtt,#2 forward primer for insertion_site_28 | Tm=66.0 Celcius
+F8,jt352,GTCggtctcTGAGCCctgactcaacccacaattatcg,#2 reverse primer for insertion_site_28 | Tm=69.0 Celcius
+G8,jt353,GACggtctcGGTTCTggtacggctggatactgtg,#1 forward primer for insertion_site_29 | Tm=70.0 Celcius
+H8,jt354,TGAggtctcTGAGCCgcctgatgaaatcaacgttcc,#1 reverse primer for insertion_site_29 | Tm=68.0 Celcius
+A9,jt355,ATTggtctcGGTTCTacggctggatactgtgtgg,#2 forward primer for insertion_site_29 | Tm=67.0 Celcius
+B9,jt356,GTGggtctcTGAGCCaccgcctgatgaaatcaacgt,#2 reverse primer for insertion_site_29 | Tm=69.0 Celcius
+C9,jt357,GAGggtctcGGTTCTgctggatactgtgtggttgc,#3 forward primer for insertion_site_29 | Tm=70.0 Celcius
+D9,jt358,TTGggtctcTGAGCCcgtaccgcctgatgaaatcaa,#3 reverse primer for insertion_site_29 | Tm=68.0 Celcius
+E9,jt359,TGCggtctcGGTTCTggatactgtgtggttgctctt,#4 forward primer for insertion_site_29 | Tm=68.0 Celcius
+F9,jt360,TTTggtctcTGAGCCagccgtaccgcctgatga,#4 reverse primer for insertion_site_29 | Tm=69.0 Celcius
+G9,jt361,AATggtctcGGTTCTtactgtgtggttgctcttcca,#5 forward primer for insertion_site_29 | Tm=66.0 Celcius
+H9,jt362,TTGggtctcTGAGCCtccagccgtaccgcctga,#5 reverse primer for insertion_site_29 | Tm=71.0 Celcius
+A10,jt363,CCCggtctcGGTTCTtgtaaatattcaatttattatttacaggcaattt,#1 forward primer for insertion_site_30 | Tm=65.0 Celcius
+B10,jt364,GACggtctcTGAGCCatcatctggaagagcaaccac,#1 reverse primer for insertion_site_30 | Tm=69.0 Celcius
+C10,jt365,ACAggtctcGGTTCTaaatattcaatttattatttacaggcaattttaaac,#2 forward primer for insertion_site_30 | Tm=63.0 Celcius
+D10,jt366,ACTggtctcTGAGCCacaatcatctggaagagcaacc,#2 reverse primer for insertion_site_30 | Tm=68.0 Celcius
+E10,jt367,AGTggtctcGGTTCTtattcaatttattatttacaggcaattttaaact,#3 forward primer for insertion_site_30 | Tm=63.0 Celcius
+F10,jt368,ACTggtctcTGAGCCtttacaatcatctggaagagcaac,#3 reverse primer for insertion_site_30 | Tm=67.0 Celcius
+G10,jt369,ACGggtctcGGTTCTtcaatttattatttacaggcaattttaaactc,#4 forward primer for insertion_site_30 | Tm=65.0 Celcius
+H10,jt370,CTCggtctcTGAGCCatatttacaatcatctggaagagcaac,#4 reverse primer for insertion_site_30 | Tm=68.0 Celcius
+A11,jt371,CCGggtctcGGTTCTttccgaggtggttatattgctag,#1 forward primer for insertion_site_31 | Tm=69.0 Celcius
+B11,jt372,GGTggtctcTGAGCCaacttctccatgtaaggcactaaa,#1 reverse primer for insertion_site_31 | Tm=68.0 Celcius
+C11,jt373,AAGggtctcGGTTCTcgaggtggttatattgctagg,#2 forward primer for insertion_site_31 | Tm=67.0 Celcius
+D11,jt374,GATggtctcTGAGCCgaaaacttctccatgtaaggcac,#2 reverse primer for insertion_site_31 | Tm=68.0 Celcius
+E11,jt375,CGAggtctcGGTTCTggtggttatattgctagggga,#3 forward primer for insertion_site_31 | Tm=68.0 Celcius
+F11,jt376,TCCggtctcTGAGCCtcggaaaacttctccatgtaagg,#3 reverse primer for insertion_site_31 | Tm=69.0 Celcius
+G11,jt377,CTTggtctcGGTTCTggttatattgctaggggaactaag,#4 forward primer for insertion_site_31 | Tm=67.0 Celcius
+H11,jt378,CCTggtctcTGAGCCacctcggaaaacttctccatg,#4 reverse primer for insertion_site_31 | Tm=69.0 Celcius
+A12,jt379,CCGggtctcGGTTCTaggaaaattgattttgataatcttgaagaa,#1 forward primer for insertion_site_32 | Tm=66.0 Celcius
+B12,jt380,CTAggtctcTGAGCCaataggcaagttcttaagcacctt,#1 reverse primer for insertion_site_32 | Tm=67.0 Celcius
+C12,jt381,TTGggtctcGGTTCTaaaattgattttgataatcttgaagaagca,#2 forward primer for insertion_site_32 | Tm=64.0 Celcius
+D12,jt382,CTCggtctcTGAGCCcctaataggcaagttcttaagcac,#2 reverse primer for insertion_site_32 | Tm=69.0 Celcius
+E12,jt383,GTTggtctcGGTTCTattgattttgataatcttgaagaagcaaat,#3 forward primer for insertion_site_32 | Tm=64.0 Celcius
+F12,jt384,ACTggtctcTGAGCCtttcctaataggcaagttcttaagc,#3 reverse primer for insertion_site_32 | Tm=67.0 Celcius
+G12,jt385,ATTggtctcGGTTCTgattttgataatcttgaagaagcaaatc,#4 forward primer for insertion_site_32 | Tm=64.0 Celcius
+H12,jt386,AGCggtctcTGAGCCaattttcctaataggcaagttcttaag,#4 reverse primer for insertion_site_32 | Tm=67.0 Celcius
+A1,jt387,GAGggtctcGGTTCTaataataaaagagttctgaccccattg,#1 forward primer for insertion_site_33 | Tm=67.0 Celcius
+B1,jt388,TACggtctcTGAGCCtacattaacatctattttgtcataaatctc,#1 reverse primer for insertion_site_33 | Tm=65.0 Celcius
+C1,jt389,AGTggtctcGGTTCTaataaaagagttctgaccccattg,#2 forward primer for insertion_site_33 | Tm=66.0 Celcius
+D1,jt390,ACGggtctcTGAGCCatttacattaacatctattttgtcataaatctc,#2 reverse primer for insertion_site_33 | Tm=66.0 Celcius
+E1,jt391,TCTggtctcGGTTCTaaaagagttctgaccccattgc,#3 forward primer for insertion_site_33 | Tm=67.0 Celcius
+F1,jt392,GCCggtctcTGAGCCattatttacattaacatctattttgtcataaatc,#3 reverse primer for insertion_site_33 | Tm=66.0 Celcius
+G1,jt393,TTGggtctcGGTTCTagagttctgaccccattgcaa,#4 forward primer for insertion_site_33 | Tm=67.0 Celcius
+H1,jt394,CTAggtctcTGAGCCtttattatttacattaacatctattttgtcataaatc,#4 reverse primer for insertion_site_33 | Tm=64.0 Celcius
+A2,jt395,ATCggtctcGGTTCTgttctgaccccattgcaacg,#5 forward primer for insertion_site_33 | Tm=68.0 Celcius
+B2,jt396,ACAggtctcTGAGCCtcttttattatttacattaacatctattttgtca,#5 reverse primer for insertion_site_33 | Tm=64.0 Celcius
+C2,jt397,AATggtctcGGTTCTctgaccccattgcaacgtatg,#6 forward primer for insertion_site_33 | Tm=67.0 Celcius
+D2,jt398,AGAggtctcTGAGCCaactcttttattatttacattaacatctattttg,#6 reverse primer for insertion_site_33 | Tm=64.0 Celcius
+E2,jt399,TATggtctcGGTTCTcaaactgagagtagtgtagaactaatt,#1 forward primer for insertion_site_34 | Tm=65.0 Celcius
+F2,jt400,ATCggtctcTGAGCCagtatacggataaatgactcggg,#1 reverse primer for insertion_site_34 | Tm=68.0 Celcius
+G2,jt401,TGTggtctcGGTTCTactgagagtagtgtagaactaattcc,#2 forward primer for insertion_site_34 | Tm=67.0 Celcius
+H2,jt402,GTAggtctcTGAGCCttgagtatacggataaatgactcg,#2 reverse primer for insertion_site_34 | Tm=67.0 Celcius
+A3,jt403,GGTggtctcGGTTCTgagagtagtgtagaactaattcct,#3 forward primer for insertion_site_34 | Tm=67.0 Celcius
+B3,jt404,TTTggtctcTGAGCCagtttgagtatacggataaatgactc,#3 reverse primer for insertion_site_34 | Tm=66.0 Celcius
+C3,jt405,ACCggtctcGGTTCTagtagtgtagaactaattcctttagat,#4 forward primer for insertion_site_34 | Tm=66.0 Celcius
+D3,jt406,GCCggtctcTGAGCCctcagtttgagtatacggataaatg,#4 reverse primer for insertion_site_34 | Tm=69.0 Celcius
+E3,jt407,TAGggtctcGGTTCTagtgtagaactaattcctttagatgaa,#5 forward primer for insertion_site_34 | Tm=65.0 Celcius
+F3,jt408,TAAggtctcTGAGCCactctcagtttgagtatacggata,#5 reverse primer for insertion_site_34 | Tm=66.0 Celcius
+G3,jt409,AATggtctcGGTTCTgtagaactaattcctttagatgaaatac,#6 forward primer for insertion_site_34 | Tm=64.0 Celcius
+H3,jt410,CTCggtctcTGAGCCactactctcagtttgagtatacgg,#6 reverse primer for insertion_site_34 | Tm=69.0 Celcius
+A4,jt411,TAGggtctcGGTTCTgaactaattcctttagatgaaatacga,#7 forward primer for insertion_site_34 | Tm=65.0 Celcius
+B4,jt412,AGAggtctcTGAGCCtacactactctcagtttgagtatacg,#7 reverse primer for insertion_site_34 | Tm=68.0 Celcius
+C4,jt413,GCCggtctcGGTTCTctaattcctttagatgaaatacgagaa,#8 forward primer for insertion_site_34 | Tm=67.0 Celcius
+D4,jt414,TTCggtctcTGAGCCttctacactactctcagtttgagtata,#8 reverse primer for insertion_site_34 | Tm=67.0 Celcius
+E4,jt415,GTCggtctcGGTTCTattcctttagatgaaatacgagaaattttt,#9 forward primer for insertion_site_34 | Tm=65.0 Celcius
+F4,jt416,CGCggtctcTGAGCCtagttctacactactctcagtttgag,#9 reverse primer for insertion_site_34 | Tm=70.0 Celcius
+G4,jt417,AAGggtctcGGTTCTcctttagatgaaatacgagaaatttttc,#10 forward primer for insertion_site_34 | Tm=65.0 Celcius
+H4,jt418,GGGggtctcTGAGCCaattagttctacactactctcagtttga,#10 reverse primer for insertion_site_34 | Tm=69.0 Celcius
+A5,,,
+B5,,,
+C5,,,
+D5,,,
+E5,,,
+F5,,,
+G5,,,
+H5,,,
+A6,,,
+B6,,,
+C6,,,
+D6,,,
+E6,,,
+F6,,,
+G6,,,
+H6,,,
+A7,,,
+B7,,,
+C7,,,
+D7,,,
+E7,,,
+F7,,,
+G7,,,
+H7,,,
+A8,,,
+B8,,,
+C8,,,
+D8,,,
+E8,,,
+F8,,,
+G8,,,
+H8,,,
+A9,,,
+B9,,,
+C9,,,
+D9,,,
+E9,,,
+F9,,,
+G9,,,
+H9,,,
+A10,,,
+B10,,,
+C10,,,
+D10,,,
+E10,,,
+F10,,,
+G10,,,
+H10,,,
+A11,,,
+B11,,,
+C11,,,
+D11,,,
+E11,,,
+F11,,,
+G11,,,
+H11,,,
+A12,,,
+B12,,,
+C12,,,
+D12,,,
+E12,,,
+F12,,,
+G12,,,
+H12,,,

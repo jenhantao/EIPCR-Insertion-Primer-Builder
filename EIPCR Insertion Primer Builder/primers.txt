@@ -1,832 +1,832 @@
->jt001F | #1 forward primer for insertion_site_1 | Tm=57.0 Celcius
-GGTggtctcGGTTCAtccaga
->jt001R | #1 reverse primer for insertion_site_1 | Tm=57.0 Celcius
-CCGggtctcACCCGAatttag
->jt002F | #2 forward primer for insertion_site_1 | Tm=57.0 Celcius
-AGCggtctcGGGTCGagatat
->jt002R | #2 reverse primer for insertion_site_1 | Tm=55.0 Celcius
-TTTggtctcGCCGGAggaattt
->jt003F | #3 forward primer for insertion_site_1 | Tm=53.0 Celcius
-TACggtctcGGCTCAtataatg
->jt003R | #3 reverse primer for insertion_site_1 | Tm=61.0 Celcius
-GCGggtctcCCCAGAtctgga
->jt004F | #4 forward primer for insertion_site_1 | Tm=53.0 Celcius
-TCGggtctcGGATCAaatgaa
->jt004R | #4 reverse primer for insertion_site_1 | Tm=55.0 Celcius
-TACggtctcGCCCGAatatct
->jt005F | #1 forward primer for insertion_site_2 | Tm=54.0 Celcius
-GGAggtctcGGTTCTattaaaaataaa
->jt005R | #1 reverse primer for insertion_site_2 | Tm=63.0 Celcius
-GCGggtctcCCCCGAatccca
->jt006F | #2 forward primer for insertion_site_2 | Tm=55.0 Celcius
-GTCggtctcGGTTCTaaaaataaag
->jt006R | #2 reverse primer for insertion_site_2 | Tm=55.0 Celcius
-GCTggtctcCCCTGAaatatc
->jt007F | #3 forward primer for insertion_site_2 | Tm=53.0 Celcius
-GTAggtctcGGCTCAaataaag
->jt007R | #3 reverse primer for insertion_site_2 | Tm=55.0 Celcius
-GGGggtctcTCCCGAtttaata
->jt008F | #4 forward primer for insertion_site_2 | Tm=55.0 Celcius
-AGTggtctcGGTTCAaaagctg
->jt008R | #4 reverse primer for insertion_site_2 | Tm=55.0 Celcius
-GCTggtctcTCCGGAatttttaatat
->jt009F | #5 forward primer for insertion_site_2 | Tm=59.0 Celcius
-TCTggtctcGGCTCAgctgga
->jt009R | #5 reverse primer for insertion_site_2 | Tm=55.0 Celcius
-GGGggtctcCCCTGAtttattt
->jt010F | #6 forward primer for insertion_site_2 | Tm=55.0 Celcius
-GTAggtctcGGATCAggaaaac
->jt010R | #6 reverse primer for insertion_site_2 | Tm=57.0 Celcius
-CTGggtctcTCCGGAagcttt
->jt011F | #7 forward primer for insertion_site_2 | Tm=57.0 Celcius
-TAGggtctcGGATCCaaaccg
->jt011R | #7 reverse primer for insertion_site_2 | Tm=61.0 Celcius
-CGTggtctcCCCTGAtccagc
->jt012F | #8 forward primer for insertion_site_2 | Tm=59.0 Celcius
-TGTggtctcGGATCCccgact
->jt012R | #8 reverse primer for insertion_site_2 | Tm=59.0 Celcius
-TGGggtctcGCCCGAttttcc
->jt013F | #9 forward primer for insertion_site_2 | Tm=57.0 Celcius
-GTCggtctcGGGTCGactaat
->jt013R | #9 reverse primer for insertion_site_2 | Tm=61.0 Celcius
-CAGggtctcGCCGGAcggttt
->jt014F | #10 forward primer for insertion_site_2 | Tm=54.0 Celcius
-AATggtctcGGCTCAaatgaaaga
->jt014R | #10 reverse primer for insertion_site_2 | Tm=61.0 Celcius
-GCAggtctcGCCTGAagtcgg
->jt015F | #11 forward primer for insertion_site_2 | Tm=55.0 Celcius
-TGTggtctcGGGTCAgaaaga
->jt015R | #11 reverse primer for insertion_site_2 | Tm=53.0 Celcius
-TCAggtctcACCTGAattagtc
->jt016F | #12 forward primer for insertion_site_2 | Tm=55.0 Celcius
-AATggtctcGGATCGagagag
->jt016R | #12 reverse primer for insertion_site_2 | Tm=53.0 Celcius
-GTAggtctcACCCGAttcatta
->jt017F | #13 forward primer for insertion_site_2 | Tm=57.0 Celcius
-GGTggtctcGGATCTgaggtt
->jt017R | #13 reverse primer for insertion_site_2 | Tm=55.0 Celcius
-TCAggtctcTCCAGAtctttcatta
->jt018F | #14 forward primer for insertion_site_2 | Tm=57.0 Celcius
-AAGggtctcGGATCCgttgtc
->jt018R | #14 reverse primer for insertion_site_2 | Tm=61.0 Celcius
-CACggtctcCCCCGActctct
->jt019F | #15 forward primer for insertion_site_2 | Tm=55.0 Celcius
-TACggtctcGGATCTgtcttg
->jt019R | #15 reverse primer for insertion_site_2 | Tm=57.0 Celcius
-ACAggtctcTCCGGAaacctc
->jt020F | #16 forward primer for insertion_site_2 | Tm=55.0 Celcius
-CCTggtctcGGTTCTttggaa
->jt020R | #16 reverse primer for insertion_site_2 | Tm=61.0 Celcius
-ACGggtctcCCCCGAgacaac
->jt021F | #17 forward primer for insertion_site_2 | Tm=57.0 Celcius
-AGTggtctcGGTTCGgaagag
->jt021R | #17 reverse primer for insertion_site_2 | Tm=57.0 Celcius
-GACggtctcACCTGAcaagac
->jt022F | #18 forward primer for insertion_site_2 | Tm=61.0 Celcius
-GCAggtctcGGCTCTgaggca
->jt022R | #18 reverse primer for insertion_site_2 | Tm=55.0 Celcius
-CACggtctcACCAGAttccaa
->jt023F | #19 forward primer for insertion_site_2 | Tm=59.0 Celcius
-AGAggtctcGGGTCCgcactt
->jt023R | #19 reverse primer for insertion_site_2 | Tm=59.0 Celcius
-ACGggtctcTCCGGActcttc
->jt024F | #1 forward primer for insertion_site_3 | Tm=57.0 Celcius
-CCAggtctcGGTTCCtctgaa
->jt024R | #1 reverse primer for insertion_site_3 | Tm=59.0 Celcius
-AGCggtctcCCCAGAtgcact
->jt025F | #2 forward primer for insertion_site_3 | Tm=57.0 Celcius
-GTGggtctcGGATCGgaacat
->jt025R | #2 reverse primer for insertion_site_3 | Tm=55.0 Celcius
-TATggtctcTCCCGAagatgca
->jt026F | #3 forward primer for insertion_site_3 | Tm=57.0 Celcius
-AGCggtctcGGATCCcattct
->jt026R | #3 reverse primer for insertion_site_3 | Tm=57.0 Celcius
-CACggtctcTCCCGAttcaga
->jt027F | #4 forward primer for insertion_site_3 | Tm=54.0 Celcius
-ATCggtctcGGCTCAtctaaaaaa
->jt027R | #4 reverse primer for insertion_site_3 | Tm=59.0 Celcius
-GGGggtctcCCCAGAatgttc
->jt028F | #5 forward primer for insertion_site_3 | Tm=55.0 Celcius
-CCAggtctcGGTTCCaaaaaac
->jt028R | #5 reverse primer for insertion_site_3 | Tm=55.0 Celcius
-TATggtctcCCCCGAagaatgt
->jt029F | #6 forward primer for insertion_site_3 | Tm=57.0 Celcius
-CGCggtctcGGATCAaaacca
->jt029R | #6 reverse primer for insertion_site_3 | Tm=55.0 Celcius
-ATCggtctcCCCCGAtttagaa
->jt030F | #7 forward primer for insertion_site_3 | Tm=59.0 Celcius
-GATggtctcGGCTCGccagat
->jt030R | #7 reverse primer for insertion_site_3 | Tm=55.0 Celcius
-TAGggtctcCCCAGAttttttagaat
->jt031F | #8 forward primer for insertion_site_3 | Tm=54.0 Celcius
-GATggtctcGGATCTgattatac
->jt031R | #8 reverse primer for insertion_site_3 | Tm=57.0 Celcius
-GTGggtctcCCCTGAtggttt
->jt032F | #1 forward primer for insertion_site_5 | Tm=55.0 Celcius
-ATTggtctcGGATCCaaggttg
->jt032R | #1 reverse primer for insertion_site_5 | Tm=55.0 Celcius
-CTAggtctcACCCGAtacaga
->jt033F | #2 forward primer for insertion_site_5 | Tm=55.0 Celcius
-TGAggtctcGGTTCTgttgatg
->jt033R | #2 reverse primer for insertion_site_5 | Tm=57.0 Celcius
-CAGggtctcGCCAGActttac
->jt034F | #3 forward primer for insertion_site_5 | Tm=59.0 Celcius
-CGTggtctcGGGTCTgatggt
->jt034R | #3 reverse primer for insertion_site_5 | Tm=57.0 Celcius
-TCAggtctcCCCGGAaacctt
->jt035F | #4 forward primer for insertion_site_5 | Tm=57.0 Celcius
-TTCggtctcGGATCGggtgat
->jt035R | #4 reverse primer for insertion_site_5 | Tm=59.0 Celcius
-CCAggtctcGCCGGAatcaac
->jt036F | #5 forward primer for insertion_site_5 | Tm=55.0 Celcius
-AACggtctcGGGTCTgatgata
->jt036R | #5 reverse primer for insertion_site_5 | Tm=59.0 Celcius
-GAGggtctcCCCTGAaccatc
->jt037F | #6 forward primer for insertion_site_5 | Tm=61.0 Celcius
-CCAggtctcGGGTCCgatacc
->jt037R | #6 reverse primer for insertion_site_5 | Tm=57.0 Celcius
-ATCggtctcTCCCGAatcacc
->jt038F | #7 forward primer for insertion_site_5 | Tm=55.0 Celcius
-AGTggtctcGGATCGaccttt
->jt038R | #7 reverse primer for insertion_site_5 | Tm=55.0 Celcius
-TCTggtctcGCCTGAatcatca
->jt039F | #1 forward primer for insertion_site_6 | Tm=59.0 Celcius
-GGTggtctcGGCTCCgagtat
->jt039R | #1 reverse primer for insertion_site_6 | Tm=54.0 Celcius
-TTAggtctcCCCTGAtgtgtaat
->jt040F | #1 forward primer for insertion_site_7 | Tm=55.0 Celcius
-AGAggtctcGGATCAacgatac
->jt040R | #1 reverse primer for insertion_site_7 | Tm=57.0 Celcius
-CACggtctcTCCAGAaggttg
->jt041F | #2 forward primer for insertion_site_7 | Tm=55.0 Celcius
-TGCggtctcGGGTCAatacaa
->jt041R | #2 reverse primer for insertion_site_7 | Tm=55.0 Celcius
-ATAggtctcTCCTGAcgtaggt
->jt042F | #3 forward primer for insertion_site_7 | Tm=57.0 Celcius
-GAAggtctcGGATCGcaagag
->jt042R | #3 reverse primer for insertion_site_7 | Tm=55.0 Celcius
-GGAggtctcACCTGAtatcgta
->jt043F | #1 forward primer for insertion_site_8 | Tm=55.0 Celcius
-ATTggtctcGGATCCgagact
->jt043R | #1 reverse primer for insertion_site_8 | Tm=53.0 Celcius
-ACCggtctcACCCGAtaaattt
->jt044F | #2 forward primer for insertion_site_8 | Tm=55.0 Celcius
-ACAggtctcGGGTCCacttat
->jt044R | #2 reverse primer for insertion_site_8 | Tm=57.0 Celcius
-TCTggtctcGCCCGActctaa
->jt045F | #1 forward primer for insertion_site_9 | Tm=61.0 Celcius
-CCTggtctcGGTTCCggccta
->jt045R | #1 reverse primer for insertion_site_9 | Tm=54.0 Celcius
-CAGggtctcACCAGAtgaattata
->jt046F | #2 forward primer for insertion_site_9 | Tm=54.0 Celcius
-GTTggtctcGGTTCTctatttgat
->jt046R | #2 reverse primer for insertion_site_9 | Tm=59.0 Celcius
-ACTggtctcACCCGAgcctga
->jt047F | #3 forward primer for insertion_site_9 | Tm=57.0 Celcius
-ACCggtctcGGCTCGtttgat
->jt047R | #3 reverse primer for insertion_site_9 | Tm=57.0 Celcius
-ACAggtctcACCAGAtaggcc
->jt048F | #4 forward primer for insertion_site_9 | Tm=55.0 Celcius
-GTTggtctcGGTTCGgatcaat
->jt048R | #4 reverse primer for insertion_site_9 | Tm=53.0 Celcius
-GAAggtctcACCAGAaaatagg
->jt049F | #5 forward primer for insertion_site_9 | Tm=55.0 Celcius
-AAAggtctcGGCTCAcaattgc
->jt049R | #5 reverse primer for insertion_site_9 | Tm=55.0 Celcius
-CGTggtctcGCCTGAatcaaat
->jt050F | #6 forward primer for insertion_site_9 | Tm=57.0 Celcius
-AGCggtctcGGTTCGttgctt
->jt050R | #6 reverse primer for insertion_site_9 | Tm=57.0 Celcius
-ACTggtctcGCCGGAttgatc
->jt051F | #7 forward primer for insertion_site_9 | Tm=57.0 Celcius
-CCTggtctcGGTTCGcttaca
->jt051R | #7 reverse primer for insertion_site_9 | Tm=57.0 Celcius
-CCCggtctcTCCAGAcaattg
->jt052F | #8 forward primer for insertion_site_9 | Tm=59.0 Celcius
-ACCggtctcGGTTCGacagag
->jt052R | #8 reverse primer for insertion_site_9 | Tm=59.0 Celcius
-TCGggtctcCCCGGAaagcaa
->jt053F | #1 forward primer for insertion_site_10 | Tm=53.0 Celcius
-ACAggtctcGGATCAccttatt
->jt053R | #1 reverse primer for insertion_site_10 | Tm=57.0 Celcius
-CCTggtctcACCCGAactttc
->jt054F | #2 forward primer for insertion_site_10 | Tm=53.0 Celcius
-CAAggtctcGGCTCAtattca
->jt054R | #2 reverse primer for insertion_site_10 | Tm=55.0 Celcius
-GAAggtctcTCCTGAaggactt
->jt055F | #3 forward primer for insertion_site_10 | Tm=53.0 Celcius
-CATggtctcGGGTCTtcattt
->jt055R | #3 reverse primer for insertion_site_10 | Tm=55.0 Celcius
-TTCggtctcTCCGGAataagga
->jt056F | #1 forward primer for insertion_site_11 | Tm=55.0 Celcius
-AGAggtctcGGATCTgatatagaaat
->jt056R | #1 reverse primer for insertion_site_11 | Tm=55.0 Celcius
-ACCggtctcTCCCGAtgttttt
->jt057F | #2 forward primer for insertion_site_11 | Tm=55.0 Celcius
-TGAggtctcGGATCAatagaaattct
->jt057R | #2 reverse primer for insertion_site_11 | Tm=59.0 Celcius
-CGAggtctcCCCGGAatctgt
->jt058F | #3 forward primer for insertion_site_11 | Tm=55.0 Celcius
-CTCggtctcGGCTCTgaaatt
->jt058R | #3 reverse primer for insertion_site_11 | Tm=55.0 Celcius
-TATggtctcACCAGAtatatctgttttt
->jt059F | #4 forward primer for insertion_site_11 | Tm=55.0 Celcius
-ACAggtctcGGTTCCattctac
->jt059R | #4 reverse primer for insertion_site_11 | Tm=55.0 Celcius
-CGTggtctcACCCGAttctata
->jt060F | #5 forward primer for insertion_site_11 | Tm=55.0 Celcius
-CATggtctcGGTTCActacag
->jt060R | #5 reverse primer for insertion_site_11 | Tm=54.0 Celcius
-AATggtctcCCCTGAaatttctatat
->jt061F | #6 forward primer for insertion_site_11 | Tm=59.0 Celcius
-TGAggtctcGGCTCCcagcta
->jt061R | #6 reverse primer for insertion_site_11 | Tm=55.0 Celcius
-GCAggtctcTCCGGAtagaatt
->jt062F | #7 forward primer for insertion_site_11 | Tm=55.0 Celcius
-GCAggtctcGGCTCActaaaa
->jt062R | #7 reverse primer for insertion_site_11 | Tm=59.0 Celcius
-GGAggtctcCCCAGActgtag
->jt063F | #1 forward primer for insertion_site_12 | Tm=57.0 Celcius
-CCTggtctcGGATCAtgtggt
->jt063R | #1 reverse primer for insertion_site_12 | Tm=55.0 Celcius
-CAAggtctcGCCAGAagcaata
->jt064F | #2 forward primer for insertion_site_12 | Tm=59.0 Celcius
-CATggtctcGGATCCggttcg
->jt064R | #2 reverse primer for insertion_site_12 | Tm=57.0 Celcius
-ATGggtctcACCGGAacaagc
->jt065F | #3 forward primer for insertion_site_12 | Tm=61.0 Celcius
-TGCggtctcGGCTCAtcggga
->jt065R | #3 reverse primer for insertion_site_12 | Tm=59.0 Celcius
-CGAggtctcGCCTGAaccaca
->jt066F | #4 forward primer for insertion_site_12 | Tm=61.0 Celcius
-TACggtctcGGCTCCggagca
->jt066R | #4 reverse primer for insertion_site_12 | Tm=59.0 Celcius
-CACggtctcACCTGAcgaacc
->jt067F | #1 forward primer for insertion_site_13 | Tm=54.0 Celcius
-ATTggtctcGGGTCAacttataag
->jt067R | #1 reverse primer for insertion_site_13 | Tm=57.0 Celcius
-AAAggtctcGCCCGAaccgat
->jt068F | #2 forward primer for insertion_site_13 | Tm=57.0 Celcius
-CGTggtctcGGGTCGtataag
->jt068R | #2 reverse primer for insertion_site_13 | Tm=57.0 Celcius
-AATggtctcCCCCGAagtacc
->jt069F | #3 forward primer for insertion_site_13 | Tm=59.0 Celcius
-CGAggtctcGGGTCAaagctg
->jt069R | #3 reverse primer for insertion_site_13 | Tm=53.0 Celcius
-GACggtctcTCCTGAataagta
->jt070F | #4 forward primer for insertion_site_13 | Tm=59.0 Celcius
-ACCggtctcGGCTCTctgtct
->jt070R | #4 reverse primer for insertion_site_13 | Tm=55.0 Celcius
-GAAggtctcTCCAGActtataagta
->jt071F | #5 forward primer for insertion_site_13 | Tm=55.0 Celcius
-TCAggtctcGGGTCCtcttat
->jt071R | #5 reverse primer for insertion_site_13 | Tm=59.0 Celcius
-GTAggtctcCCCCGAcagctt
->jt072F | #1 forward primer for insertion_site_14 | Tm=59.0 Celcius
-CCAggtctcGGTTCGgacgta
->jt072R | #1 reverse primer for insertion_site_14 | Tm=55.0 Celcius
-TCTggtctcTCCAGAttcacc
->jt073F | #2 forward primer for insertion_site_14 | Tm=59.0 Celcius
-AGCggtctcGGCTCGgtacaa
->jt073R | #2 reverse primer for insertion_site_14 | Tm=53.0 Celcius
-TAAggtctcACCAGAgtcttca
->jt074F | #3 forward primer for insertion_site_14 | Tm=53.0 Celcius
-TTAggtctcGGTTCCcaatct
->jt074R | #3 reverse primer for insertion_site_14 | Tm=55.0 Celcius
-ATAggtctcCCCAGAtacgtct
->jt075F | #1 forward primer for insertion_site_15 | Tm=57.0 Celcius
-CCAggtctcGGGTCCagttta
->jt075R | #1 reverse primer for insertion_site_15 | Tm=55.0 Celcius
-GATggtctcACCAGAgttacca
->jt076F | #2 forward primer for insertion_site_15 | Tm=55.0 Celcius
-GCAggtctcGGATCGttattag
->jt076R | #2 reverse primer for insertion_site_15 | Tm=55.0 Celcius
-CCTggtctcACCTGAactgtta
->jt077F | #3 forward primer for insertion_site_15 | Tm=55.0 Celcius
-CTTggtctcGGGTCAttagaac
->jt077R | #3 reverse primer for insertion_site_15 | Tm=55.0 Celcius
-GTGggtctcTCCGGAtaaact
->jt078F | #4 forward primer for insertion_site_15 | Tm=57.0 Celcius
-TCTggtctcGGTTCGgaacca
->jt078R | #4 reverse primer for insertion_site_15 | Tm=55.0 Celcius
-CGGggtctcACCCGAtaataaa
->jt079F | #5 forward primer for insertion_site_15 | Tm=59.0 Celcius
-CTAggtctcGGGTCGccagaa
->jt079R | #5 reverse primer for insertion_site_15 | Tm=55.0 Celcius
-CAAggtctcGCCAGAttctaataaa
->jt080F | #6 forward primer for insertion_site_15 | Tm=55.0 Celcius
-CACggtctcGGGTCAgaaaaa
->jt080R | #6 reverse primer for insertion_site_15 | Tm=55.0 Celcius
-AACggtctcACCAGAtggttct
->jt081F | #7 forward primer for insertion_site_15 | Tm=57.0 Celcius
-TCAggtctcGGCTCGaaagtc
->jt081R | #7 reverse primer for insertion_site_15 | Tm=55.0 Celcius
-AACggtctcACCAGAttctggt
->jt082F | #8 forward primer for insertion_site_15 | Tm=57.0 Celcius
-AATggtctcGGGTCAgtcgag
->jt082R | #8 reverse primer for insertion_site_15 | Tm=59.0 Celcius
-CGGggtctcCCCGGAtttttc
->jt083F | #1 forward primer for insertion_site_16 | Tm=59.0 Celcius
-AGTggtctcGGCTCGtcGGAT
->jt083R | #1 reverse primer for insertion_site_16 | Tm=55.0 Celcius
-CAAggtctcGCCCGAaaaatct
->jt084F | #2 forward primer for insertion_site_16 | Tm=57.0 Celcius
-GGAggtctcGGTTCAGATCTG
->jt084R | #2 reverse primer for insertion_site_16 | Tm=54.0 Celcius
-AAAggtctcTCCCGACgaaaaat
->jt085F | #3 forward primer for insertion_site_16 | Tm=59.0 Celcius
-TCCggtctcGGGTCCCTGaaA
->jt085R | #3 reverse primer for insertion_site_16 | Tm=59.0 Celcius
-CTAggtctcGCCGGAATCCga
->jt086F | #4 forward primer for insertion_site_16 | Tm=55.0 Celcius
-TCGggtctcGGCTCGaaAttt
->jt086R | #4 reverse primer for insertion_site_16 | Tm=57.0 Celcius
-AGTggtctcACCGGACAGATC
->jt087F | #1 forward primer for insertion_site_17 | Tm=55.0 Celcius
-CTCggtctcGGGTCTtatatga
->jt087R | #1 reverse primer for insertion_site_17 | Tm=61.0 Celcius
-CGAggtctcTCCCGAtggagg
->jt088F | #2 forward primer for insertion_site_17 | Tm=55.0 Celcius
-CAGggtctcGGTTCCatgaaat
->jt088R | #2 reverse primer for insertion_site_17 | Tm=55.0 Celcius
-AGGggtctcTCCTGAatatgga
->jt089F | #3 forward primer for insertion_site_17 | Tm=55.0 Celcius
-TAGggtctcGGATCGaaatcag
->jt089R | #3 reverse primer for insertion_site_17 | Tm=53.0 Celcius
-CACggtctcTCCTGAcatatat
->jt090F | #4 forward primer for insertion_site_17 | Tm=61.0 Celcius
-CCTggtctcGGGTCGtcagag
->jt090R | #4 reverse primer for insertion_site_17 | Tm=55.0 Celcius
-ATGggtctcCCCCGAtttcata
->jt091F | #5 forward primer for insertion_site_17 | Tm=63.0 Celcius
-CGGggtctcGGGTCGgaggat
->jt091R | #5 reverse primer for insertion_site_17 | Tm=55.0 Celcius
-TGGggtctcTCCGGAtgattt
->jt092F | #6 forward primer for insertion_site_17 | Tm=55.0 Celcius
-TATggtctcGGATCAgatatgaagaa
->jt092R | #6 reverse primer for insertion_site_17 | Tm=61.0 Celcius
-CAGggtctcCCCCGActctga
->jt093F | #7 forward primer for insertion_site_17 | Tm=55.0 Celcius
-GTCggtctcGGATCAatgaaga
->jt093R | #7 reverse primer for insertion_site_17 | Tm=55.0 Celcius
-ACAggtctcTCCAGAatcctct
->jt094F | #8 forward primer for insertion_site_17 | Tm=55.0 Celcius
-CCTggtctcGGGTCTaagaata
->jt094R | #8 reverse primer for insertion_site_17 | Tm=61.0 Celcius
-CGGggtctcGCCCGAcatatc
->jt095F | #9 forward primer for insertion_site_17 | Tm=54.0 Celcius
-AGAggtctcGGCTCAaatattact
->jt095R | #9 reverse primer for insertion_site_17 | Tm=59.0 Celcius
-AGGggtctcCCCCGActtcat
->jt096F | #10 forward primer for insertion_site_17 | Tm=57.0 Celcius
-AGGggtctcGGGTCGattact
->jt096R | #10 reverse primer for insertion_site_17 | Tm=57.0 Celcius
-CCCggtctcCCCTGAattctt
->jt097F | #11 forward primer for insertion_site_17 | Tm=59.0 Celcius
-CTTggtctcGGGTCGactcct
->jt097R | #11 reverse primer for insertion_site_17 | Tm=55.0 Celcius
-ATAggtctcTCCTGAaatattcttcatat
->jt098F | #1 forward primer for insertion_site_18 | Tm=61.0 Celcius
-GCGggtctcGGATCGtctgct
->jt098R | #1 reverse primer for insertion_site_18 | Tm=53.0 Celcius
-TTAggtctcACCAGAaacatagtt
->jt099F | #2 forward primer for insertion_site_18 | Tm=57.0 Celcius
-TCAggtctcGGGTCGgcttat
->jt099R | #2 reverse primer for insertion_site_18 | Tm=55.0 Celcius
-TTCggtctcCCCTGAagaaaca
->jt100F | #3 forward primer for insertion_site_18 | Tm=55.0 Celcius
-CATggtctcGGATCAtataagcaatt
->jt100R | #3 reverse primer for insertion_site_18 | Tm=55.0 Celcius
-TTTggtctcGCCAGAagcagaa
->jt101F | #4 forward primer for insertion_site_18 | Tm=57.0 Celcius
-GTCggtctcGGGTCAaagcaa
->jt101R | #4 reverse primer for insertion_site_18 | Tm=55.0 Celcius
-CACggtctcTCCAGAataagca
->jt102F | #5 forward primer for insertion_site_18 | Tm=54.0 Celcius
-TTAggtctcGGTTCGcaatttgat
->jt102R | #5 reverse primer for insertion_site_18 | Tm=55.0 Celcius
-CACggtctcGCCAGActtataa
->jt103F | #6 forward primer for insertion_site_18 | Tm=53.0 Celcius
-AATggtctcGGGTCGtttgat
->jt103R | #6 reverse primer for insertion_site_18 | Tm=59.0 Celcius
-GTGggtctcCCCCGAttgctt
->jt104F | #7 forward primer for insertion_site_18 | Tm=57.0 Celcius
-CCAggtctcGGGTCGgataaa
->jt104R | #7 reverse primer for insertion_site_18 | Tm=55.0 Celcius
-CTTggtctcCCCCGAaaattg
->jt105F | #1 forward primer for insertion_site_19 | Tm=55.0 Celcius
-GAGggtctcGGTTCCaatcaaa
->jt105R | #1 reverse primer for insertion_site_19 | Tm=59.0 Celcius
-CTCggtctcACCTGAagcacc
->jt106F | #2 forward primer for insertion_site_19 | Tm=57.0 Celcius
-GTCggtctcGGGTCCcaaata
->jt106R | #2 reverse primer for insertion_site_19 | Tm=57.0 Celcius
-GGAggtctcTCCCGAattagc
->jt107F | #3 forward primer for insertion_site_19 | Tm=55.0 Celcius
-CTCggtctcGGCTCCatattt
->jt107R | #3 reverse primer for insertion_site_19 | Tm=54.0 Celcius
-ATTggtctcTCCCGAttgattag
->jt108F | #4 forward primer for insertion_site_19 | Tm=55.0 Celcius
-TCAggtctcGGTTCTtttcagg
->jt108R | #4 reverse primer for insertion_site_19 | Tm=55.0 Celcius
-AGTggtctcTCCAGAtatttgattag
->jt109F | #5 forward primer for insertion_site_19 | Tm=57.0 Celcius
-TGTggtctcGGGTCTcaggat
->jt109R | #5 reverse primer for insertion_site_19 | Tm=54.0 Celcius
-GTCggtctcCCCAGAaaatattt
->jt110F | #6 forward primer for insertion_site_19 | Tm=53.0 Celcius
-CACggtctcGGTTCTgataaaa
->jt110R | #6 reverse primer for insertion_site_19 | Tm=59.0 Celcius
-CCGggtctcTCCCGActgaaa
->jt111F | #7 forward primer for insertion_site_19 | Tm=55.0 Celcius
-AAAggtctcGGATCCaaaacaactta
->jt111R | #7 reverse primer for insertion_site_19 | Tm=57.0 Celcius
-GAAggtctcGCCTGAatcctg
->jt112F | #8 forward primer for insertion_site_19 | Tm=55.0 Celcius
-AGGggtctcGGATCAacaactt
->jt112R | #8 reverse primer for insertion_site_19 | Tm=57.0 Celcius
-TCCggtctcCCCGGAtttatc
->jt113F | #9 forward primer for insertion_site_19 | Tm=53.0 Celcius
-AGTggtctcGGCTCAacttat
->jt113R | #9 reverse primer for insertion_site_19 | Tm=57.0 Celcius
-GGAggtctcCCCCGAtgtttt
->jt114F | #10 forward primer for insertion_site_19 | Tm=57.0 Celcius
-CCCggtctcGGATCCtatact
->jt114R | #10 reverse primer for insertion_site_19 | Tm=55.0 Celcius
-TACggtctcACCGGAagttgtt
->jt115F | #1 forward primer for insertion_site_20 | Tm=59.0 Celcius
-CGCggtctcGGATCCcatact
->jt115R | #1 reverse primer for insertion_site_20 | Tm=55.0 Celcius
-TTGggtctcACCTGATggagtt
->jt116F | #2 forward primer for insertion_site_20 | Tm=54.0 Celcius
-AATggtctcGGCTCTactgatttt
->jt116R | #2 reverse primer for insertion_site_20 | Tm=61.0 Celcius
-GCAggtctcGCCCGAatgTgg
->jt117F | #3 forward primer for insertion_site_20 | Tm=53.0 Celcius
-TCAggtctcGGATCCgatttt
->jt117R | #3 reverse primer for insertion_site_20 | Tm=61.0 Celcius
-CCCggtctcGCCCGAagtatg
->jt118F | #4 forward primer for insertion_site_20 | Tm=57.0 Celcius
-CCCggtctcGGCTCGtttaaa
->jt118R | #4 reverse primer for insertion_site_20 | Tm=57.0 Celcius
-TGCggtctcACCGGAatcagt
->jt119F | #1 forward primer for insertion_site_21 | Tm=55.0 Celcius
-TATggtctcGGCTCAtggaaag
->jt119R | #1 reverse primer for insertion_site_21 | Tm=55.0 Celcius
-GTAggtctcTCCGGAgtcaatt
->jt120F | #2 forward primer for insertion_site_21 | Tm=57.0 Celcius
-ACAggtctcGGCTCGaaagtg
->jt120R | #2 reverse primer for insertion_site_21 | Tm=59.0 Celcius
-ATTggtctcCCCCGAccagtc
->jt121F | #3 forward primer for insertion_site_21 | Tm=61.0 Celcius
-CGCggtctcGGATCTgtgcgt
->jt121R | #3 reverse primer for insertion_site_21 | Tm=55.0 Celcius
-GAAggtctcTCCGGAtttcca
->jt122F | #4 forward primer for insertion_site_21 | Tm=57.0 Celcius
-CATggtctcGGGTCCcgtaaa
->jt122R | #4 reverse primer for insertion_site_21 | Tm=57.0 Celcius
-CCTggtctcTCCCGAcacttt
->jt123F | #5 forward primer for insertion_site_21 | Tm=57.0 Celcius
-CGTggtctcGGCTCAaaagct
->jt123R | #5 reverse primer for insertion_site_21 | Tm=57.0 Celcius
-TATggtctcACCGGAacgcac
->jt124F | #6 forward primer for insertion_site_21 | Tm=59.0 Celcius
-CTGggtctcGGGTCTgctgat
->jt124R | #6 reverse primer for insertion_site_21 | Tm=55.0 Celcius
-AGAggtctcACCAGAtttacgc
->jt125F | #7 forward primer for insertion_site_21 | Tm=55.0 Celcius
-TCAggtctcGGTTCAgatgcta
->jt125R | #7 reverse primer for insertion_site_21 | Tm=59.0 Celcius
-GCTggtctcGCCCGAagcttt
->jt126F | #8 forward primer for insertion_site_21 | Tm=61.0 Celcius
-GGTggtctcGGGTCGgctatg
->jt126R | #8 reverse primer for insertion_site_21 | Tm=59.0 Celcius
-CCTggtctcCCCAGAatcagc
->jt127F | #9 forward primer for insertion_site_21 | Tm=55.0 Celcius
-GTAggtctcGGATCCatggaa
->jt127R | #9 reverse primer for insertion_site_21 | Tm=57.0 Celcius
-ACAggtctcCCCTGAagcatc
->jt128F | #1 forward primer for insertion_site_22 | Tm=61.0 Celcius
-GAGggtctcGGGTCAgatgcg
->jt128R | #1 reverse primer for insertion_site_22 | Tm=55.0 Celcius
-TCGggtctcACCAGAactttg
->jt129F | #2 forward primer for insertion_site_22 | Tm=63.0 Celcius
-GAAggtctcGGCTCCgcgtgg
->jt129R | #2 reverse primer for insertion_site_22 | Tm=55.0 Celcius
-AAAggtctcGCCGGAatcactt
->jt130F | #3 forward primer for insertion_site_22 | Tm=59.0 Celcius
-CCGggtctcGGCTCTtggatt
->jt130R | #3 reverse primer for insertion_site_22 | Tm=59.0 Celcius
-TTCggtctcCCCAGAcgcatc
->jt131F | #4 forward primer for insertion_site_22 | Tm=54.0 Celcius
-TCCggtctcGGTTCGattttaatt
->jt131R | #4 reverse primer for insertion_site_22 | Tm=63.0 Celcius
-CGGggtctcACCTGAccacgc
->jt132F | #5 forward primer for insertion_site_22 | Tm=55.0 Celcius
-CAGggtctcGGGTCAttaattc
->jt132R | #5 reverse primer for insertion_site_22 | Tm=55.0 Celcius
-AATggtctcGCCAGAaatccac
->jt133F | #6 forward primer for insertion_site_22 | Tm=57.0 Celcius
-AGGggtctcGGGTCAattcca
->jt133R | #6 reverse primer for insertion_site_22 | Tm=54.0 Celcius
-TTTggtctcTCCGGAtaaaatcca
->jt134F | #7 forward primer for insertion_site_22 | Tm=57.0 Celcius
-AGTggtctcGGATCGccatct
->jt134R | #7 reverse primer for insertion_site_22 | Tm=55.0 Celcius
-GCAggtctcCCCGGAaattaaa
->jt135F | #1 forward primer for insertion_site_23 | Tm=55.0 Celcius
-GCAggtctcGGATCGgataata
->jt135R | #1 reverse primer for insertion_site_23 | Tm=55.0 Celcius
-TTTggtctcGCCAGAaataccg
->jt136F | #2 forward primer for insertion_site_23 | Tm=55.0 Celcius
-AATggtctcGGATCTaatatatttaatgg
->jt136R | #2 reverse primer for insertion_site_23 | Tm=53.0 Celcius
-TTAggtctcGCCCGAatcaata
->jt137F | #3 forward primer for insertion_site_23 | Tm=54.0 Celcius
-GCGggtctcGGTTCAatatttaat
->jt137R | #3 reverse primer for insertion_site_23 | Tm=55.0 Celcius
-CTGggtctcACCTGAattatcaata
->jt138F | #4 forward primer for insertion_site_23 | Tm=55.0 Celcius
-ACAggtctcGGCTCGtttaatg
->jt138R | #4 reverse primer for insertion_site_23 | Tm=55.0 Celcius
-TCCggtctcGCCGGAtatatta
->jt139F | #5 forward primer for insertion_site_23 | Tm=55.0 Celcius
-TTAggtctcGGATCGaatggga
->jt139R | #5 reverse primer for insertion_site_23 | Tm=55.0 Celcius
-GTTggtctcACCTGAaaatatattatcaat
->jt140F | #6 forward primer for insertion_site_23 | Tm=57.0 Celcius
-GTAggtctcGGGTCTgggatt
->jt140R | #6 reverse primer for insertion_site_23 | Tm=55.0 Celcius
-CTCggtctcACCCGAattaaatatat
->jt141F | #7 forward primer for insertion_site_23 | Tm=53.0 Celcius
-CTAggtctcGGATCCattcaaa
->jt141R | #7 reverse primer for insertion_site_23 | Tm=57.0 Celcius
-CAAggtctcTCCCGAcccatt
->jt142F | #8 forward primer for insertion_site_23 | Tm=57.0 Celcius
-TTAggtctcGGGTCCcaaacc
->jt142R | #8 reverse primer for insertion_site_23 | Tm=55.0 Celcius
-AAAggtctcCCCAGAaatccca
->jt143F | #9 forward primer for insertion_site_23 | Tm=55.0 Celcius
-GTAggtctcGGATCAaccagt
->jt143R | #9 reverse primer for insertion_site_23 | Tm=55.0 Celcius
-AAGggtctcGCCCGAttgaat
->jt144F | #10 forward primer for insertion_site_23 | Tm=57.0 Celcius
-ACTggtctcGGATCCagtgct
->jt144R | #10 reverse primer for insertion_site_23 | Tm=57.0 Celcius
-GTCggtctcACCTGAggtttg
->jt145F | #11 forward primer for insertion_site_23 | Tm=57.0 Celcius
-GTCggtctcGGCTCAgctaat
->jt145R | #11 reverse primer for insertion_site_23 | Tm=61.0 Celcius
-GGAggtctcCCCCGAactggt
->jt146F | #12 forward primer for insertion_site_23 | Tm=55.0 Celcius
-CGTggtctcGGTTCCaatgat
->jt146R | #12 reverse primer for insertion_site_23 | Tm=57.0 Celcius
-GTCggtctcACCTGAagcact
->jt147F | #13 forward primer for insertion_site_23 | Tm=55.0 Celcius
-ACTggtctcGGTTCTgatgtc
->jt147R | #13 reverse primer for insertion_site_23 | Tm=57.0 Celcius
-CATggtctcGCCCGAattagc
->jt148F | #14 forward primer for insertion_site_23 | Tm=53.0 Celcius
-ATAggtctcGGTTCTgtctatatt
->jt148R | #14 reverse primer for insertion_site_23 | Tm=54.0 Celcius
-AATggtctcACCCGAatcattag
->jt149F | #1 forward primer for insertion_site_24 | Tm=55.0 Celcius
-GACggtctcGGTTCCaagaaa
->jt149R | #1 reverse primer for insertion_site_24 | Tm=53.0 Celcius
-ATAggtctcTCCGGAtataaaataata
->jt150F | #2 forward primer for insertion_site_24 | Tm=57.0 Celcius
-GCGggtctcGGATCTaaagga
->jt150R | #2 reverse primer for insertion_site_24 | Tm=55.0 Celcius
-GGTggtctcGCCAGActttata
->jt151F | #3 forward primer for insertion_site_24 | Tm=55.0 Celcius
-AGTggtctcGGATCAggacaa
->jt151R | #3 reverse primer for insertion_site_24 | Tm=55.0 Celcius
-ATCggtctcCCCTGAtttctttataa
->jt152F | #4 forward primer for insertion_site_24 | Tm=59.0 Celcius
-GCGggtctcGGATCAcaagag
->jt152R | #4 reverse primer for insertion_site_24 | Tm=57.0 Celcius
-TGCggtctcACCCGAtccttt
->jt153F | #5 forward primer for insertion_site_24 | Tm=57.0 Celcius
-TCTggtctcGGTTCGgagtac
->jt153R | #5 reverse primer for insertion_site_24 | Tm=57.0 Celcius
-TAAggtctcGCCGGAttgtcc
->jt154F | #6 forward primer for insertion_site_24 | Tm=53.0 Celcius
-TCAggtctcGGTTCAtacaaaatt
->jt154R | #6 reverse primer for insertion_site_24 | Tm=55.0 Celcius
-ATTggtctcGCCTGActcttgt
->jt155F | #7 forward primer for insertion_site_24 | Tm=55.0 Celcius
-CGCggtctcGGATCCaaaatt
->jt155R | #7 reverse primer for insertion_site_24 | Tm=59.0 Celcius
-TGGggtctcGCCAGAgtactc
->jt156F | #8 forward primer for insertion_site_24 | Tm=53.0 Celcius
-TTGggtctcGGTTCCattgaa
->jt156R | #8 reverse primer for insertion_site_24 | Tm=55.0 Celcius
-ATGggtctcGCCTGAtttgtac
->jt157F | #1 forward primer for insertion_site_25 | Tm=59.0 Celcius
-CACggtctcGGTTCCacgagt
->jt157R | #1 reverse primer for insertion_site_25 | Tm=53.0 Celcius
-GTAggtctcACCTGAtgttttaaa
->jt158F | #2 forward primer for insertion_site_25 | Tm=59.0 Celcius
-TCAggtctcGGCTCGagtggt
->jt158R | #2 reverse primer for insertion_site_25 | Tm=63.0 Celcius
-GCGggtctcGCCCGAcgttgt
->jt159F | #3 forward primer for insertion_site_25 | Tm=55.0 Celcius
-TAAggtctcGGTTCAggtgag
->jt159R | #3 reverse primer for insertion_site_25 | Tm=61.0 Celcius
-CCAggtctcGCCGGAactcgt
->jt160F | #4 forward primer for insertion_site_25 | Tm=63.0 Celcius
-GCGggtctcGGCTCGgaggat
->jt160R | #4 reverse primer for insertion_site_25 | Tm=55.0 Celcius
-AGTggtctcACCTGAaccact
->jt161F | #5 forward primer for insertion_site_25 | Tm=59.0 Celcius
-GAGggtctcGGGTCCgataac
->jt161R | #5 reverse primer for insertion_site_25 | Tm=61.0 Celcius
-CGGggtctcTCCAGActcacc
->jt162F | #1 forward primer for insertion_site_26 | Tm=61.0 Celcius
-GGTggtctcGGCTCGcgtact
->jt162R | #1 reverse primer for insertion_site_26 | Tm=57.0 Celcius
-CGTggtctcCCCTGAgtaagt
->jt163F | #2 forward primer for insertion_site_26 | Tm=55.0 Celcius
-TCTggtctcGGGTCTactttca
->jt163R | #2 reverse primer for insertion_site_26 | Tm=59.0 Celcius
-GCTggtctcACCGGAacggta
->jt164F | #3 forward primer for insertion_site_26 | Tm=59.0 Celcius
-AGCggtctcGGCTCGttcaag
->jt164R | #3 reverse primer for insertion_site_26 | Tm=57.0 Celcius
-AAGggtctcCCCTGAagtacg
->jt165F | #4 forward primer for insertion_site_26 | Tm=57.0 Celcius
-TACggtctcGGATCCaagcct
->jt165R | #4 reverse primer for insertion_site_26 | Tm=55.0 Celcius
-AGGggtctcACCAGAgaaagta
->jt166F | #5 forward primer for insertion_site_26 | Tm=55.0 Celcius
-ACAggtctcGGATCGcctaat
->jt166R | #5 reverse primer for insertion_site_26 | Tm=57.0 Celcius
-TTCggtctcGCCGGActtgaa
->jt167F | #6 forward primer for insertion_site_26 | Tm=61.0 Celcius
-CCCggtctcGGTTCGaatgcc
->jt167R | #6 reverse primer for insertion_site_26 | Tm=55.0 Celcius
-TACggtctcACCTGAaggctt
->jt168F | #1 forward primer for insertion_site_27 | Tm=55.0 Celcius
-CTTggtctcGGATCGcctaaaa
->jt168R | #1 reverse primer for insertion_site_27 | Tm=54.0 Celcius
-ATTggtctcACCAGAtctaggttt
->jt169F | #2 forward primer for insertion_site_27 | Tm=57.0 Celcius
-CGGggtctcGGGTCAaaaaca
->jt169R | #2 reverse primer for insertion_site_27 | Tm=55.0 Celcius
-TATggtctcGCCAGAaggtcta
->jt170F | #3 forward primer for insertion_site_27 | Tm=55.0 Celcius
-CAAggtctcGGATCCacaacaa
->jt170R | #3 reverse primer for insertion_site_27 | Tm=55.0 Celcius
-AGAggtctcTCCGGAtttaggt
->jt171F | #4 forward primer for insertion_site_27 | Tm=55.0 Celcius
-CACggtctcGGTTCGacaaat
->jt171R | #4 reverse primer for insertion_site_27 | Tm=53.0 Celcius
-TATggtctcGCCGGAtgtttta
->jt172F | #5 forward primer for insertion_site_27 | Tm=53.0 Celcius
-ACAggtctcGGTTCCaatgaa
->jt172R | #5 reverse primer for insertion_site_27 | Tm=55.0 Celcius
-GAAggtctcACCAGAtgttgtttta
->jt173F | #6 forward primer for insertion_site_27 | Tm=59.0 Celcius
-CGAggtctcGGGTCTgaatgg
->jt173R | #6 reverse primer for insertion_site_27 | Tm=55.0 Celcius
-AGCggtctcTCCCGAatttgtt
->jt174F | #1 forward primer for insertion_site_28 | Tm=55.0 Celcius
-ATGggtctcGGATCCcagaaa
->jt174R | #1 reverse primer for insertion_site_28 | Tm=57.0 Celcius
-CCCggtctcACCTGAactcaa
->jt175F | #2 forward primer for insertion_site_28 | Tm=53.0 Celcius
-CAAggtctcGGTTCTaaaattattg
->jt175R | #2 reverse primer for insertion_site_28 | Tm=55.0 Celcius
-TAGggtctcTCCTGActgact
->jt176F | #1 forward primer for insertion_site_29 | Tm=57.0 Celcius
-ATAggtctcGGGTCAggtacg
->jt176R | #1 reverse primer for insertion_site_29 | Tm=61.0 Celcius
-GGAggtctcTCCCGAgcctga
->jt177F | #2 forward primer for insertion_site_29 | Tm=57.0 Celcius
-CTAggtctcGGATCAacggct
->jt177R | #2 reverse primer for insertion_site_29 | Tm=63.0 Celcius
-ATCggtctcCCCCGAaccgcc
->jt178F | #3 forward primer for insertion_site_29 | Tm=63.0 Celcius
-GTGggtctcGGCTCCgctgga
->jt178R | #3 reverse primer for insertion_site_29 | Tm=63.0 Celcius
-CCGggtctcCCCTGAcgtacc
->jt179F | #4 forward primer for insertion_site_29 | Tm=55.0 Celcius
-CAAggtctcGGTTCAggatac
->jt179R | #4 reverse primer for insertion_site_29 | Tm=61.0 Celcius
-CACggtctcTCCGGAagccgt
->jt180F | #5 forward primer for insertion_site_29 | Tm=61.0 Celcius
-CGGggtctcGGGTCCtactgt
->jt180R | #5 reverse primer for insertion_site_29 | Tm=57.0 Celcius
-GTTggtctcACCAGAtccagc
->jt181F | #1 forward primer for insertion_site_30 | Tm=55.0 Celcius
-GGTggtctcGGATCGtgtaaat
->jt181R | #1 reverse primer for insertion_site_30 | Tm=59.0 Celcius
-CACggtctcGCCCGAatcatc
->jt182F | #2 forward primer for insertion_site_30 | Tm=55.0 Celcius
-CGAggtctcGGGTCGaaatatt
->jt182R | #2 reverse primer for insertion_site_30 | Tm=57.0 Celcius
-TTGggtctcCCCGGAacaatc
->jt183F | #3 forward primer for insertion_site_30 | Tm=55.0 Celcius
-CGTggtctcGGATCCtattca
->jt183R | #3 reverse primer for insertion_site_30 | Tm=55.0 Celcius
-GACggtctcGCCAGAtttacaa
->jt184F | #4 forward primer for insertion_site_30 | Tm=55.0 Celcius
-TGTggtctcGGCTCCtcaatt
->jt184R | #4 reverse primer for insertion_site_30 | Tm=54.0 Celcius
-TCAggtctcACCAGAatatttacaat
->jt185F | #1 forward primer for insertion_site_31 | Tm=55.0 Celcius
-AAAggtctcGGTTCCttccga
->jt185R | #1 reverse primer for insertion_site_31 | Tm=55.0 Celcius
-TGGggtctcACCAGAaacttct
->jt186F | #2 forward primer for insertion_site_31 | Tm=59.0 Celcius
-TGAggtctcGGCTCTcgaggt
->jt186R | #2 reverse primer for insertion_site_31 | Tm=55.0 Celcius
-ATTggtctcGCCGGAgaaaact
->jt187F | #3 forward primer for insertion_site_31 | Tm=59.0 Celcius
-AAAggtctcGGGTCGggtggt
->jt187R | #3 reverse primer for insertion_site_31 | Tm=57.0 Celcius
-TGAggtctcTCCGGAtcggaa
->jt188F | #4 forward primer for insertion_site_31 | Tm=57.0 Celcius
-TCTggtctcGGCTCCggttat
->jt188R | #4 reverse primer for insertion_site_31 | Tm=57.0 Celcius
-AAAggtctcACCCGAacctcg
->jt189F | #1 forward primer for insertion_site_32 | Tm=57.0 Celcius
-TCTggtctcGGGTCGaggaaa
->jt189R | #1 reverse primer for insertion_site_32 | Tm=55.0 Celcius
-CAAggtctcTCCCGAaatagg
->jt190F | #2 forward primer for insertion_site_32 | Tm=57.0 Celcius
-GCGggtctcGGCTCCaaaatt
->jt190R | #2 reverse primer for insertion_site_32 | Tm=57.0 Celcius
-AGGggtctcACCGGAcctaat
->jt191F | #3 forward primer for insertion_site_32 | Tm=53.0 Celcius
-AATggtctcGGTTCTattgattttg
->jt191R | #3 reverse primer for insertion_site_32 | Tm=55.0 Celcius
-CGTggtctcTCCTGAtttccta
->jt192F | #4 forward primer for insertion_site_32 | Tm=55.0 Celcius
-GCAggtctcGGATCCgatttt
->jt192R | #4 reverse primer for insertion_site_32 | Tm=55.0 Celcius
-CTGggtctcGCCGGAaatttt
->jt193F | #1 forward primer for insertion_site_33 | Tm=54.0 Celcius
-ATCggtctcGGATCTaataataaaaga
->jt193R | #1 reverse primer for insertion_site_33 | Tm=59.0 Celcius
-CCGggtctcGCCGGAtacatt
->jt194F | #2 forward primer for insertion_site_33 | Tm=54.0 Celcius
-GACggtctcGGATCTaataaaaga
->jt194R | #2 reverse primer for insertion_site_33 | Tm=55.0 Celcius
-GAAggtctcGCCTGAatttacattaa
->jt195F | #3 forward primer for insertion_site_33 | Tm=55.0 Celcius
-TGAggtctcGGATCGaaaagag
->jt195R | #3 reverse primer for insertion_site_33 | Tm=55.0 Celcius
-TGGggtctcCCCGGAattattt
->jt196F | #4 forward primer for insertion_site_33 | Tm=54.0 Celcius
-ATAggtctcGGATCTagagttct
->jt196R | #4 reverse primer for insertion_site_33 | Tm=54.0 Celcius
-ATAggtctcGCCGGAtttattattta
->jt197F | #5 forward primer for insertion_site_33 | Tm=59.0 Celcius
-GACggtctcGGGTCTgttctg
->jt197R | #5 reverse primer for insertion_site_33 | Tm=55.0 Celcius
-CTTggtctcTCCAGAtcttttattattta
->jt198F | #6 forward primer for insertion_site_33 | Tm=59.0 Celcius
-CGTggtctcGGATCActgacc
->jt198R | #6 reverse primer for insertion_site_33 | Tm=59.0 Celcius
-CTCggtctcGCCCGAaactct
->jt199F | #1 forward primer for insertion_site_34 | Tm=57.0 Celcius
-GCAggtctcGGCTCAcaaact
->jt199R | #1 reverse primer for insertion_site_34 | Tm=57.0 Celcius
-GTCggtctcCCCCGAagtata
->jt200F | #2 forward primer for insertion_site_34 | Tm=59.0 Celcius
-GCAggtctcGGGTCAactgag
->jt200R | #2 reverse primer for insertion_site_34 | Tm=55.0 Celcius
-TAGggtctcTCCCGAttgagta
->jt201F | #3 forward primer for insertion_site_34 | Tm=55.0 Celcius
-CTAggtctcGGTTCTgagagta
->jt201R | #3 reverse primer for insertion_site_34 | Tm=61.0 Celcius
-GCCggtctcGCCCGAagtttg
->jt202F | #4 forward primer for insertion_site_34 | Tm=55.0 Celcius
-CAAggtctcGGCTCAagtagt
->jt202R | #4 reverse primer for insertion_site_34 | Tm=57.0 Celcius
-TGTggtctcACCGGActcagt
->jt203F | #5 forward primer for insertion_site_34 | Tm=55.0 Celcius
-ACAggtctcGGTTCGagtgta
->jt203R | #5 reverse primer for insertion_site_34 | Tm=59.0 Celcius
-CATggtctcGCCCGAactctc
->jt204F | #6 forward primer for insertion_site_34 | Tm=57.0 Celcius
-CCCggtctcGGATCAgtagaa
->jt204R | #6 reverse primer for insertion_site_34 | Tm=57.0 Celcius
-GTGggtctcGCCAGAactact
->jt205F | #7 forward primer for insertion_site_34 | Tm=59.0 Celcius
-GGCggtctcGGGTCTgaacta
->jt205R | #7 reverse primer for insertion_site_34 | Tm=57.0 Celcius
-ATCggtctcGCCCGAtacact
->jt206F | #8 forward primer for insertion_site_34 | Tm=55.0 Celcius
-CCAggtctcGGATCGctaatt
->jt206R | #8 reverse primer for insertion_site_34 | Tm=57.0 Celcius
-GATggtctcGCCCGAttctac
->jt207F | #9 forward primer for insertion_site_34 | Tm=59.0 Celcius
-CCGggtctcGGCTCTattcct
->jt207R | #9 reverse primer for insertion_site_34 | Tm=59.0 Celcius
-CGAggtctcGCCCGAtagttc
->jt208F | #10 forward primer for insertion_site_34 | Tm=57.0 Celcius
-AGGggtctcGGTTCCccttta
->jt208R | #10 reverse primer for insertion_site_34 | Tm=54.0 Celcius
-TCGggtctcTCCTGAaattagtt
+>jt001F | #1 forward primer for insertion_site_1 | Tm=66.0 Celcius
+GTGggtctcGGTTCTtccagatataatgaaacacttttacga
+>jt001R | #1 reverse primer for insertion_site_1 | Tm=65.0 Celcius
+TTTggtctcTGAGCCatttagacattcttttctattcgtctc
+>jt002F | #2 forward primer for insertion_site_1 | Tm=65.0 Celcius
+TGTggtctcGGTTCTagatataatgaaacacttttacgaagtg
+>jt002R | #2 reverse primer for insertion_site_1 | Tm=68.0 Celcius
+CGCggtctcTGAGCCggaatttagacattcttttctattcgt
+>jt003F | #3 forward primer for insertion_site_1 | Tm=63.0 Celcius
+AATggtctcGGTTCTtataatgaaacacttttacgaagtgattat
+>jt003R | #3 reverse primer for insertion_site_1 | Tm=66.0 Celcius
+TTGggtctcTGAGCCtctggaatttagacattcttttctattc
+>jt004F | #4 forward primer for insertion_site_1 | Tm=65.0 Celcius
+GTAggtctcGGTTCTaatgaaacacttttacgaagtgattatc
+>jt004R | #4 reverse primer for insertion_site_1 | Tm=65.0 Celcius
+GATggtctcTGAGCCatatctggaatttagacattcttttctatt
+>jt005F | #1 forward primer for insertion_site_2 | Tm=65.0 Celcius
+CATggtctcGGTTCTattaaaaataaagctggaaaaccgactaat
+>jt005R | #1 reverse primer for insertion_site_2 | Tm=68.0 Celcius
+GCTggtctcTGAGCCatcccagccaagaagttcaaaaaa
+>jt006F | #2 forward primer for insertion_site_2 | Tm=65.0 Celcius
+AAAggtctcGGTTCTaaaaataaagctggaaaaccgactaatgaa
+>jt006R | #2 reverse primer for insertion_site_2 | Tm=67.0 Celcius
+GATggtctcTGAGCCaatatcccagccaagaagttcaaa
+>jt007F | #3 forward primer for insertion_site_2 | Tm=67.0 Celcius
+TGCggtctcGGTTCTaataaagctggaaaaccgactaatgaaa
+>jt007R | #3 reverse primer for insertion_site_2 | Tm=67.0 Celcius
+ACAggtctcTGAGCCtttaatatcccagccaagaagttc
+>jt008F | #4 forward primer for insertion_site_2 | Tm=69.0 Celcius
+GGGggtctcGGTTCTaaagctggaaaaccgactaatgaaag
+>jt008R | #4 reverse primer for insertion_site_2 | Tm=68.0 Celcius
+AGGggtctcTGAGCCatttttaatatcccagccaagaagttc
+>jt009F | #5 forward primer for insertion_site_2 | Tm=69.0 Celcius
+GGGggtctcGGTTCTgctggaaaaccgactaatgaaaga
+>jt009R | #5 reverse primer for insertion_site_2 | Tm=65.0 Celcius
+ATAggtctcTGAGCCtttatttttaatatcccagccaagaag
+>jt010F | #6 forward primer for insertion_site_2 | Tm=68.0 Celcius
+AGGggtctcGGTTCTggaaaaccgactaatgaaagagag
+>jt010R | #6 reverse primer for insertion_site_2 | Tm=66.0 Celcius
+TTAggtctcTGAGCCagctttatttttaatatcccagccaag
+>jt011F | #7 forward primer for insertion_site_2 | Tm=68.0 Celcius
+GCTggtctcGGTTCTaaaccgactaatgaaagagaggttgt
+>jt011R | #7 reverse primer for insertion_site_2 | Tm=67.0 Celcius
+ATCggtctcTGAGCCtccagctttatttttaatatcccagc
+>jt012F | #8 forward primer for insertion_site_2 | Tm=69.0 Celcius
+GGCggtctcGGTTCTccgactaatgaaagagaggttgt
+>jt012R | #8 reverse primer for insertion_site_2 | Tm=66.0 Celcius
+ATTggtctcTGAGCCttttccagctttatttttaatatcccagc
+>jt013F | #9 forward primer for insertion_site_2 | Tm=69.0 Celcius
+GCCggtctcGGTTCTactaatgaaagagaggttgtcttgga
+>jt013R | #9 reverse primer for insertion_site_2 | Tm=66.0 Celcius
+TTTggtctcTGAGCCcggttttccagctttatttttaatatcc
+>jt014F | #10 forward primer for insertion_site_2 | Tm=68.0 Celcius
+GCAggtctcGGTTCTaatgaaagagaggttgtcttggaaga
+>jt014R | #10 reverse primer for insertion_site_2 | Tm=67.0 Celcius
+AGAggtctcTGAGCCagtcggttttccagctttatttttaatatc
+>jt015F | #11 forward primer for insertion_site_2 | Tm=69.0 Celcius
+CGCggtctcGGTTCTgaaagagaggttgtcttggaaga
+>jt015R | #11 reverse primer for insertion_site_2 | Tm=66.0 Celcius
+ACAggtctcTGAGCCattagtcggttttccagctttatttttaatat
+>jt016F | #12 forward primer for insertion_site_2 | Tm=70.0 Celcius
+CCGggtctcGGTTCTagagaggttgtcttggaagagg
+>jt016R | #12 reverse primer for insertion_site_2 | Tm=67.0 Celcius
+ATGggtctcTGAGCCttcattagtcggttttccagctttattttt
+>jt017F | #13 forward primer for insertion_site_2 | Tm=68.0 Celcius
+ATGggtctcGGTTCTgaggttgtcttggaagaggca
+>jt017R | #13 reverse primer for insertion_site_2 | Tm=68.0 Celcius
+TTCggtctcTGAGCCtctttcattagtcggttttccagctt
+>jt018F | #14 forward primer for insertion_site_2 | Tm=66.0 Celcius
+TTTggtctcGGTTCTgttgtcttggaagaggcactt
+>jt018R | #14 reverse primer for insertion_site_2 | Tm=69.0 Celcius
+GGTggtctcTGAGCCctctctttcattagtcggttttcca
+>jt019F | #15 forward primer for insertion_site_2 | Tm=69.0 Celcius
+GGCggtctcGGTTCTgtcttggaagaggcacttaaag
+>jt019R | #15 reverse primer for insertion_site_2 | Tm=68.0 Celcius
+ACTggtctcTGAGCCaacctctctttcattagtcggttttc
+>jt020F | #16 forward primer for insertion_site_2 | Tm=67.0 Celcius
+GATggtctcGGTTCTttggaagaggcacttaaagcaag
+>jt020R | #16 reverse primer for insertion_site_2 | Tm=70.0 Celcius
+GCCggtctcTGAGCCgacaacctctctttcattagtcg
+>jt021F | #17 forward primer for insertion_site_2 | Tm=66.0 Celcius
+TAAggtctcGGTTCTgaagaggcacttaaagcaagtg
+>jt021R | #17 reverse primer for insertion_site_2 | Tm=69.0 Celcius
+CTCggtctcTGAGCCcaagacaacctctctttcattagtc
+>jt022F | #18 forward primer for insertion_site_2 | Tm=66.0 Celcius
+TTAggtctcGGTTCTgaggcacttaaagcaagtgca
+>jt022R | #18 reverse primer for insertion_site_2 | Tm=68.0 Celcius
+CATggtctcTGAGCCttccaagacaacctctctttcattag
+>jt023F | #19 forward primer for insertion_site_2 | Tm=67.0 Celcius
+AAGggtctcGGTTCTgcacttaaagcaagtgcatctg
+>jt023R | #19 reverse primer for insertion_site_2 | Tm=68.0 Celcius
+CTTggtctcTGAGCCctcttccaagacaacctctcttt
+>jt024F | #1 forward primer for insertion_site_3 | Tm=66.0 Celcius
+GCTggtctcGGTTCTtctgaacattctaaaaaaccagattatac
+>jt024R | #1 reverse primer for insertion_site_3 | Tm=68.0 Celcius
+CTAggtctcTGAGCCtgcacttgctttaagtgcctc
+>jt025F | #2 forward primer for insertion_site_3 | Tm=66.0 Celcius
+CGAggtctcGGTTCTgaacattctaaaaaaccagattatacattc
+>jt025R | #2 reverse primer for insertion_site_3 | Tm=68.0 Celcius
+GTTggtctcTGAGCCagatgcacttgctttaagtgcc
+>jt026F | #3 forward primer for insertion_site_3 | Tm=65.0 Celcius
+ACTggtctcGGTTCTcattctaaaaaaccagattatacattcag
+>jt026R | #3 reverse primer for insertion_site_3 | Tm=67.0 Celcius
+TTAggtctcTGAGCCttcagatgcacttgctttaagtgc
+>jt027F | #4 forward primer for insertion_site_3 | Tm=64.0 Celcius
+AATggtctcGGTTCTtctaaaaaaccagattatacattcagac
+>jt027R | #4 reverse primer for insertion_site_3 | Tm=67.0 Celcius
+GTAggtctcTGAGCCatgttcagatgcacttgctttaag
+>jt028F | #5 forward primer for insertion_site_3 | Tm=63.0 Celcius
+TAAggtctcGGTTCTaaaaaaccagattatacattcagacttttt
+>jt028R | #5 reverse primer for insertion_site_3 | Tm=68.0 Celcius
+GGTggtctcTGAGCCagaatgttcagatgcacttgcttt
+>jt029F | #6 forward primer for insertion_site_3 | Tm=65.0 Celcius
+AGTggtctcGGTTCTaaaccagattatacattcagacttttttc
+>jt029R | #6 reverse primer for insertion_site_3 | Tm=67.0 Celcius
+TGTggtctcTGAGCCtttagaatgttcagatgcacttgc
+>jt030F | #7 forward primer for insertion_site_3 | Tm=66.0 Celcius
+ACCggtctcGGTTCTccagattatacattcagacttttttct
+>jt030R | #7 reverse primer for insertion_site_3 | Tm=68.0 Celcius
+AGGggtctcTGAGCCttttttagaatgttcagatgcacttgc
+>jt031F | #8 forward primer for insertion_site_3 | Tm=65.0 Celcius
+GAAggtctcGGTTCTgattatacattcagacttttttctgaaag
+>jt031R | #8 reverse primer for insertion_site_3 | Tm=66.0 Celcius
+TTTggtctcTGAGCCtggttttttagaatgttcagatgcactt
+>jt032F | #1 forward primer for insertion_site_5 | Tm=67.0 Celcius
+ACCggtctcGGTTCTaaggttgatggtgatgataccttt
+>jt032R | #1 reverse primer for insertion_site_5 | Tm=65.0 Celcius
+AGTggtctcTGAGCCtacagaggtatcataaataactaaatattc
+>jt033F | #2 forward primer for insertion_site_5 | Tm=67.0 Celcius
+GTGggtctcGGTTCTgttgatggtgatgatacctttaataag
+>jt033R | #2 reverse primer for insertion_site_5 | Tm=66.0 Celcius
+CTCggtctcTGAGCCctttacagaggtatcataaataactaaata
+>jt034F | #3 forward primer for insertion_site_5 | Tm=66.0 Celcius
+TTCggtctcGGTTCTgatggtgatgatacctttaataagg
+>jt034R | #3 reverse primer for insertion_site_5 | Tm=66.0 Celcius
+GAAggtctcTGAGCCaacctttacagaggtatcataaataac
+>jt035F | #4 forward primer for insertion_site_5 | Tm=66.0 Celcius
+GTTggtctcGGTTCTggtgatgatacctttaataaggca
+>jt035R | #4 reverse primer for insertion_site_5 | Tm=66.0 Celcius
+TCTggtctcTGAGCCatcaacctttacagaggtatcataaat
+>jt036F | #5 forward primer for insertion_site_5 | Tm=67.0 Celcius
+CTCggtctcGGTTCTgatgatacctttaataaggcacgt
+>jt036R | #5 reverse primer for insertion_site_5 | Tm=70.0 Celcius
+CGCggtctcTGAGCCaccatcaacctttacagaggtatc
+>jt037F | #6 forward primer for insertion_site_5 | Tm=65.0 Celcius
+GTTggtctcGGTTCTgatacctttaataaggcacgtataaaa
+>jt037R | #6 reverse primer for insertion_site_5 | Tm=68.0 Celcius
+GTTggtctcTGAGCCatcaccatcaacctttacagaggt
+>jt038F | #7 forward primer for insertion_site_5 | Tm=64.0 Celcius
+AAAggtctcGGTTCTacctttaataaggcacgtataaaaaaatac
+>jt038R | #7 reverse primer for insertion_site_5 | Tm=68.0 Celcius
+AGTggtctcTGAGCCatcatcaccatcaacctttacagag
+>jt039F | #1 forward primer for insertion_site_6 | Tm=67.0 Celcius
+CCCggtctcGGTTCTgagtatgaaactcactttgatgaaatt
+>jt039R | #1 reverse primer for insertion_site_6 | Tm=66.0 Celcius
+TGAggtctcTGAGCCtgtgtaatggtatttttttatacgtgc
+>jt040F | #1 forward primer for insertion_site_7 | Tm=67.0 Celcius
+TGGggtctcGGTTCTacgatacaagagaatgagcttaatg
+>jt040R | #1 reverse primer for insertion_site_7 | Tm=68.0 Celcius
+ACGggtctcTGAGCCaggttgatacttatagatttcttcacc
+>jt041F | #2 forward primer for insertion_site_7 | Tm=65.0 Celcius
+ATCggtctcGGTTCTatacaagagaatgagcttaatgacatt
+>jt041R | #2 reverse primer for insertion_site_7 | Tm=67.0 Celcius
+TCTggtctcTGAGCCcgtaggttgatacttatagatttcttc
+>jt042F | #3 forward primer for insertion_site_7 | Tm=66.0 Celcius
+GTAggtctcGGTTCTcaagagaatgagcttaatgacattg
+>jt042R | #3 reverse primer for insertion_site_7 | Tm=68.0 Celcius
+CCGggtctcTGAGCCtatcgtaggttgatacttatagatttc
+>jt043F | #1 forward primer for insertion_site_8 | Tm=66.0 Celcius
+AGGggtctcGGTTCTgagacttatcagacattactgaatttt
+>jt043R | #1 reverse primer for insertion_site_8 | Tm=67.0 Celcius
+CAGggtctcTGAGCCtaaatttctatcttcacagactctcaa
+>jt044F | #2 forward primer for insertion_site_8 | Tm=66.0 Celcius
+GTCggtctcGGTTCTacttatcagacattactgaattttgct
+>jt044R | #2 reverse primer for insertion_site_8 | Tm=69.0 Celcius
+CCGggtctcTGAGCCctctaaatttctatcttcacagactc
+>jt045F | #1 forward primer for insertion_site_9 | Tm=66.0 Celcius
+GAAggtctcGGTTCTggcctatttgatcaattgcttaca
+>jt045R | #1 reverse primer for insertion_site_9 | Tm=70.0 Celcius
+CCCggtctcTGAGCCtgaattatagcaacgatctgcctg
+>jt046F | #2 forward primer for insertion_site_9 | Tm=67.0 Celcius
+AGCggtctcGGTTCTctatttgatcaattgcttacagagc
+>jt046R | #2 reverse primer for insertion_site_9 | Tm=68.0 Celcius
+GTAggtctcTGAGCCgcctgaattatagcaacgatctg
+>jt047F | #3 forward primer for insertion_site_9 | Tm=65.0 Celcius
+GTAggtctcGGTTCTtttgatcaattgcttacagagcaaatt
+>jt047R | #3 reverse primer for insertion_site_9 | Tm=68.0 Celcius
+TCAggtctcTGAGCCtaggcctgaattatagcaacgatc
+>jt048F | #4 forward primer for insertion_site_9 | Tm=65.0 Celcius
+CTTggtctcGGTTCTgatcaattgcttacagagcaaattatt
+>jt048R | #4 reverse primer for insertion_site_9 | Tm=67.0 Celcius
+CAAggtctcTGAGCCaaataggcctgaattatagcaacg
+>jt049F | #5 forward primer for insertion_site_9 | Tm=65.0 Celcius
+TATggtctcGGTTCTcaattgcttacagagcaaattattgag
+>jt049R | #5 reverse primer for insertion_site_9 | Tm=67.0 Celcius
+TCTggtctcTGAGCCatcaaataggcctgaattatagcaac
+>jt050F | #6 forward primer for insertion_site_9 | Tm=67.0 Celcius
+GCAggtctcGGTTCTttgcttacagagcaaattattgagg
+>jt050R | #6 reverse primer for insertion_site_9 | Tm=66.0 Celcius
+TTTggtctcTGAGCCttgatcaaataggcctgaattatagc
+>jt051F | #7 forward primer for insertion_site_9 | Tm=66.0 Celcius
+TGCggtctcGGTTCTcttacagagcaaattattgaggatatt
+>jt051R | #7 reverse primer for insertion_site_9 | Tm=66.0 Celcius
+AGAggtctcTGAGCCcaattgatcaaataggcctgaattata
+>jt052F | #8 forward primer for insertion_site_9 | Tm=64.0 Celcius
+AATggtctcGGTTCTacagagcaaattattgaggatattagt
+>jt052R | #8 reverse primer for insertion_site_9 | Tm=66.0 Celcius
+AATggtctcTGAGCCaagcaattgatcaaataggcctgaattata
+>jt053F | #1 forward primer for insertion_site_10 | Tm=68.0 Celcius
+GGCggtctcGGTTCTccttattcatttagtgtgttctcttc
+>jt053R | #1 reverse primer for insertion_site_10 | Tm=65.0 Celcius
+AGAggtctcTGAGCCactttctggataatataattgcttaatgat
+>jt054F | #2 forward primer for insertion_site_10 | Tm=68.0 Celcius
+CGGggtctcGGTTCTtattcatttagtgtgttctcttcgg
+>jt054R | #2 reverse primer for insertion_site_10 | Tm=67.0 Celcius
+GTCggtctcTGAGCCaggactttctggataatataattgctt
+>jt055F | #3 forward primer for insertion_site_10 | Tm=67.0 Celcius
+CCAggtctcGGTTCTtcatttagtgtgttctcttcggat
+>jt055R | #3 reverse primer for insertion_site_10 | Tm=67.0 Celcius
+CGTggtctcTGAGCCataaggactttctggataatataattgc
+>jt056F | #1 forward primer for insertion_site_11 | Tm=65.0 Celcius
+AGAggtctcGGTTCTgatatagaaattctacagctaaaatttgc
+>jt056R | #1 reverse primer for insertion_site_11 | Tm=67.0 Celcius
+TTTggtctcTGAGCCtgtttttccatagcacttcggtag
+>jt057F | #2 forward primer for insertion_site_11 | Tm=67.0 Celcius
+CGGggtctcGGTTCTatagaaattctacagctaaaatttgctg
+>jt057R | #2 reverse primer for insertion_site_11 | Tm=68.0 Celcius
+ATCggtctcTGAGCCatctgtttttccatagcacttcgg
+>jt058F | #3 forward primer for insertion_site_11 | Tm=67.0 Celcius
+CCGggtctcGGTTCTgaaattctacagctaaaatttgctgat
+>jt058R | #3 reverse primer for insertion_site_11 | Tm=67.0 Celcius
+TCAggtctcTGAGCCtatatctgtttttccatagcacttcg
+>jt059F | #4 forward primer for insertion_site_11 | Tm=66.0 Celcius
+AGCggtctcGGTTCTattctacagctaaaatttgctgatattg
+>jt059R | #4 reverse primer for insertion_site_11 | Tm=66.0 Celcius
+GTAggtctcTGAGCCttctatatctgtttttccatagcactt
+>jt060F | #5 forward primer for insertion_site_11 | Tm=66.0 Celcius
+TCAggtctcGGTTCTctacagctaaaatttgctgatattgc
+>jt060R | #5 reverse primer for insertion_site_11 | Tm=66.0 Celcius
+TCTggtctcTGAGCCaatttctatatctgtttttccatagcac
+>jt061F | #6 forward primer for insertion_site_11 | Tm=66.0 Celcius
+TTGggtctcGGTTCTcagctaaaatttgctgatattgcttg
+>jt061R | #6 reverse primer for insertion_site_11 | Tm=67.0 Celcius
+GAGggtctcTGAGCCtagaatttctatatctgtttttccatagc
+>jt062F | #7 forward primer for insertion_site_11 | Tm=68.0 Celcius
+CCCggtctcGGTTCTctaaaatttgctgatattgcttgtgg
+>jt062R | #7 reverse primer for insertion_site_11 | Tm=68.0 Celcius
+GCCggtctcTGAGCCctgtagaatttctatatctgtttttcc
+>jt063F | #1 forward primer for insertion_site_12 | Tm=68.0 Celcius
+GTGggtctcGGTTCTtgtggttcgggagcatttttac
+>jt063R | #1 reverse primer for insertion_site_12 | Tm=66.0 Celcius
+TATggtctcTGAGCCagcaatatcagcaaattttagctgtag
+>jt064F | #2 forward primer for insertion_site_12 | Tm=69.0 Celcius
+GGCggtctcGGTTCTggttcgggagcatttttactg
+>jt064R | #2 reverse primer for insertion_site_12 | Tm=68.0 Celcius
+CAGggtctcTGAGCCacaagcaatatcagcaaattttagctg
+>jt065F | #3 forward primer for insertion_site_12 | Tm=67.0 Celcius
+ATCggtctcGGTTCTtcgggagcatttttactggag
+>jt065R | #3 reverse primer for insertion_site_12 | Tm=67.0 Celcius
+AGTggtctcTGAGCCaccacaagcaatatcagcaaattttag
+>jt066F | #4 forward primer for insertion_site_12 | Tm=66.0 Celcius
+TAAggtctcGGTTCTggagcatttttactggagttgttc
+>jt066R | #4 reverse primer for insertion_site_12 | Tm=69.0 Celcius
+CGTggtctcTGAGCCcgaaccacaagcaatatcagc
+>jt067F | #1 forward primer for insertion_site_13 | Tm=65.0 Celcius
+GATggtctcGGTTCTacttataagctgtcttatgaaatcaag
+>jt067R | #1 reverse primer for insertion_site_13 | Tm=68.0 Celcius
+GGAggtctcTGAGCCaccgatacctgttggaattaattg
+>jt068F | #2 forward primer for insertion_site_13 | Tm=66.0 Celcius
+CAGggtctcGGTTCTtataagctgtcttatgaaatcaagaga
+>jt068R | #2 reverse primer for insertion_site_13 | Tm=69.0 Celcius
+CGGggtctcTGAGCCagtaccgatacctgttggaattaa
+>jt069F | #3 forward primer for insertion_site_13 | Tm=66.0 Celcius
+TGAggtctcGGTTCTaagctgtcttatgaaatcaagagaaag
+>jt069R | #3 reverse primer for insertion_site_13 | Tm=67.0 Celcius
+TTCggtctcTGAGCCataagtaccgatacctgttggaat
+>jt070F | #4 forward primer for insertion_site_13 | Tm=67.0 Celcius
+TGGggtctcGGTTCTctgtcttatgaaatcaagagaaagg
+>jt070R | #4 reverse primer for insertion_site_13 | Tm=69.0 Celcius
+TCGggtctcTGAGCCcttataagtaccgatacctgttgg
+>jt071F | #5 forward primer for insertion_site_13 | Tm=65.0 Celcius
+GTTggtctcGGTTCTtcttatgaaatcaagagaaaggttcta
+>jt071R | #5 reverse primer for insertion_site_13 | Tm=69.0 Celcius
+CCAggtctcTGAGCCcagcttataagtaccgatacctg
+>jt072F | #1 forward primer for insertion_site_14 | Tm=65.0 Celcius
+ATGggtctcGGTTCTgacgtacaatctatagctaatattaga
+>jt072R | #1 reverse primer for insertion_site_14 | Tm=67.0 Celcius
+TGCggtctcTGAGCCttcaccctctaataattttagcaacaa
+>jt073F | #2 forward primer for insertion_site_14 | Tm=66.0 Celcius
+TCGggtctcGGTTCTgtacaatctatagctaatattagacca
+>jt073R | #2 reverse primer for insertion_site_14 | Tm=66.0 Celcius
+TAAggtctcTGAGCCgtcttcaccctctaataattttagc
+>jt074F | #3 forward primer for insertion_site_14 | Tm=65.0 Celcius
+CTTggtctcGGTTCTcaatctatagctaatattagaccagtt
+>jt074R | #3 reverse primer for insertion_site_14 | Tm=67.0 Celcius
+ACTggtctcTGAGCCtacgtcttcaccctctaataattttag
+>jt075F | #1 forward primer for insertion_site_15 | Tm=66.0 Celcius
+AGAggtctcGGTTCTagtttattagaaccagaaaaagtcgag
+>jt075R | #1 reverse primer for insertion_site_15 | Tm=64.0 Celcius
+AAAggtctcTGAGCCgttaccaaaaagtatgttatctaataaatc
+>jt076F | #2 forward primer for insertion_site_15 | Tm=67.0 Celcius
+ACCggtctcGGTTCTttattagaaccagaaaaagtcgagc
+>jt076R | #2 reverse primer for insertion_site_15 | Tm=67.0 Celcius
+CGCggtctcTGAGCCactgttaccaaaaagtatgttatctaataa
+>jt077F | #3 forward primer for insertion_site_15 | Tm=68.0 Celcius
+CCCggtctcGGTTCTttagaaccagaaaaagtcgagctt
+>jt077R | #3 reverse primer for insertion_site_15 | Tm=64.0 Celcius
+TTAggtctcTGAGCCtaaactgttaccaaaaagtatgttatctaa
+>jt078F | #4 forward primer for insertion_site_15 | Tm=69.0 Celcius
+GGCggtctcGGTTCTgaaccagaaaaagtcgagcttg
+>jt078R | #4 reverse primer for insertion_site_15 | Tm=66.0 Celcius
+CAGggtctcTGAGCCtaataaactgttaccaaaaagtatgttatc
+>jt079F | #5 forward primer for insertion_site_15 | Tm=67.0 Celcius
+TCAggtctcGGTTCTccagaaaaagtcgagcttgatc
+>jt079R | #5 reverse primer for insertion_site_15 | Tm=67.0 Celcius
+CGCggtctcTGAGCCttctaataaactgttaccaaaaagtatgtt
+>jt080F | #6 forward primer for insertion_site_15 | Tm=68.0 Celcius
+CTGggtctcGGTTCTgaaaaagtcgagcttgatcatcag
+>jt080R | #6 reverse primer for insertion_site_15 | Tm=66.0 Celcius
+TTGggtctcTGAGCCtggttctaataaactgttaccaaaaag
+>jt081F | #7 forward primer for insertion_site_15 | Tm=68.0 Celcius
+TGGggtctcGGTTCTaaagtcgagcttgatcatcagg
+>jt081R | #7 reverse primer for insertion_site_15 | Tm=66.0 Celcius
+TTCggtctcTGAGCCttctggttctaataaactgttaccaaa
+>jt082F | #8 forward primer for insertion_site_15 | Tm=68.0 Celcius
+CCAggtctcGGTTCTgtcgagcttgatcatcaggta
+>jt082R | #8 reverse primer for insertion_site_15 | Tm=65.0 Celcius
+AAAggtctcTGAGCCtttttctggttctaataaactgttaccaaa
+>jt083F | #1 forward primer for insertion_site_16 | Tm=66.0 Celcius
+GTGggtctcGGTTCTtcGGATCTGaaAtttgatgtaattgtt
+>jt083R | #1 reverse primer for insertion_site_16 | Tm=67.0 Celcius
+AGAggtctcTGAGCCaaaatctaacggatttacttctacctg
+>jt084F | #2 forward primer for insertion_site_16 | Tm=68.0 Celcius
+CCCggtctcGGTTCTGATCTGaaAtttgatgtaattgttggc
+>jt084R | #2 reverse primer for insertion_site_16 | Tm=66.0 Celcius
+AATggtctcTGAGCCCgaaaaatctaacggatttacttctac
+>jt085F | #3 forward primer for insertion_site_16 | Tm=65.0 Celcius
+ATTggtctcGGTTCTCTGaaAtttgatgtaattgttggcaac
+>jt085R | #3 reverse primer for insertion_site_16 | Tm=69.0 Celcius
+CCCggtctcTGAGCCATCCgaaaaatctaacggatttacttc
+>jt086F | #4 forward primer for insertion_site_16 | Tm=67.0 Celcius
+CGAggtctcGGTTCTaaAtttgatgtaattgttggcaaccc
+>jt086R | #4 reverse primer for insertion_site_16 | Tm=68.0 Celcius
+GTCggtctcTGAGCCCAGATCCgaaaaatctaacggatt
+>jt087F | #1 forward primer for insertion_site_17 | Tm=65.0 Celcius
+CTAggtctcGGTTCTtatatgaaatcagaggatatgaagaatattact
+>jt087R | #1 reverse primer for insertion_site_17 | Tm=69.0 Celcius
+GACggtctcTGAGCCtggagggttgccaacaattac
+>jt088F | #2 forward primer for insertion_site_17 | Tm=64.0 Celcius
+TATggtctcGGTTCTatgaaatcagaggatatgaagaatattact
+>jt088R | #2 reverse primer for insertion_site_17 | Tm=68.0 Celcius
+TGTggtctcTGAGCCatatggagggttgccaacaattac
+>jt089F | #3 forward primer for insertion_site_17 | Tm=66.0 Celcius
+CCTggtctcGGTTCTaaatcagaggatatgaagaatattactc
+>jt089R | #3 reverse primer for insertion_site_17 | Tm=69.0 Celcius
+TGGggtctcTGAGCCcatatatggagggttgccaac
+>jt090F | #4 forward primer for insertion_site_17 | Tm=66.0 Celcius
+TCTggtctcGGTTCTtcagaggatatgaagaatattactcc
+>jt090R | #4 reverse primer for insertion_site_17 | Tm=67.0 Celcius
+ATTggtctcTGAGCCtttcatatatggagggttgccaac
+>jt091F | #5 forward primer for insertion_site_17 | Tm=66.0 Celcius
+GTTggtctcGGTTCTgaggatatgaagaatattactcctttg
+>jt091R | #5 reverse primer for insertion_site_17 | Tm=68.0 Celcius
+TCAggtctcTGAGCCtgatttcatatatggagggttgcc
+>jt092F | #6 forward primer for insertion_site_17 | Tm=67.0 Celcius
+GTCggtctcGGTTCTgatatgaagaatattactcctttggag
+>jt092R | #6 reverse primer for insertion_site_17 | Tm=68.0 Celcius
+GTCggtctcTGAGCCctctgatttcatatatggagggtt
+>jt093F | #7 forward primer for insertion_site_17 | Tm=66.0 Celcius
+CCAggtctcGGTTCTatgaagaatattactcctttggagtta
+>jt093R | #7 reverse primer for insertion_site_17 | Tm=70.0 Celcius
+GGGggtctcTGAGCCatcctctgatttcatatatggagggt
+>jt094F | #8 forward primer for insertion_site_17 | Tm=67.0 Celcius
+GACggtctcGGTTCTaagaatattactcctttggagttacc
+>jt094R | #8 reverse primer for insertion_site_17 | Tm=68.0 Celcius
+GTCggtctcTGAGCCcatatcctctgatttcatatatggag
+>jt095F | #9 forward primer for insertion_site_17 | Tm=65.0 Celcius
+AGAggtctcGGTTCTaatattactcctttggagttaccttta
+>jt095R | #9 reverse primer for insertion_site_17 | Tm=69.0 Celcius
+GCCggtctcTGAGCCcttcatatcctctgatttcatatatgga
+>jt096F | #10 forward primer for insertion_site_17 | Tm=65.0 Celcius
+ATCggtctcGGTTCTattactcctttggagttacctttatat
+>jt096R | #10 reverse primer for insertion_site_17 | Tm=68.0 Celcius
+CCAggtctcTGAGCCattcttcatatcctctgatttcatatatgg
+>jt097F | #11 forward primer for insertion_site_17 | Tm=66.0 Celcius
+GTAggtctcGGTTCTactcctttggagttacctttatataag
+>jt097R | #11 reverse primer for insertion_site_17 | Tm=68.0 Celcius
+CGGggtctcTGAGCCaatattcttcatatcctctgatttcatatatg
+>jt098F | #1 forward primer for insertion_site_18 | Tm=66.0 Celcius
+GGGggtctcGGTTCTtctgcttataagcaatttgataaatatttc
+>jt098R | #1 reverse primer for insertion_site_18 | Tm=65.0 Celcius
+TTGggtctcTGAGCCaacatagtttttcttatataaaggtaactc
+>jt099F | #2 forward primer for insertion_site_18 | Tm=63.0 Celcius
+ATAggtctcGGTTCTgcttataagcaatttgataaatatttcttg
+>jt099R | #2 reverse primer for insertion_site_18 | Tm=64.0 Celcius
+ATAggtctcTGAGCCagaaacatagtttttcttatataaaggtaac
+>jt100F | #3 forward primer for insertion_site_18 | Tm=66.0 Celcius
+CCCggtctcGGTTCTtataagcaatttgataaatatttcttgttcttag
+>jt100R | #3 reverse primer for insertion_site_18 | Tm=68.0 Celcius
+GCCggtctcTGAGCCagcagaaacatagtttttcttatataaagg
+>jt101F | #4 forward primer for insertion_site_18 | Tm=66.0 Celcius
+CGGggtctcGGTTCTaagcaatttgataaatatttcttgttcttag
+>jt101R | #4 reverse primer for insertion_site_18 | Tm=65.0 Celcius
+TTCggtctcTGAGCCataagcagaaacatagtttttcttatataaag
+>jt102F | #5 forward primer for insertion_site_18 | Tm=65.0 Celcius
+GCTggtctcGGTTCTcaatttgataaatatttcttgttcttagag
+>jt102R | #5 reverse primer for insertion_site_18 | Tm=65.0 Celcius
+CTAggtctcTGAGCCcttataagcagaaacatagtttttcttata
+>jt103F | #6 forward primer for insertion_site_18 | Tm=66.0 Celcius
+GGAggtctcGGTTCTtttgataaatatttcttgttcttagagcg
+>jt103R | #6 reverse primer for insertion_site_18 | Tm=67.0 Celcius
+CCTggtctcTGAGCCttgcttataagcagaaacatagtttttc
+>jt104F | #7 forward primer for insertion_site_18 | Tm=67.0 Celcius
+CCAggtctcGGTTCTgataaatatttcttgttcttagagcgg
+>jt104R | #7 reverse primer for insertion_site_18 | Tm=66.0 Celcius
+CTCggtctcTGAGCCaaattgcttataagcagaaacatagttttt
+>jt105F | #1 forward primer for insertion_site_19 | Tm=66.0 Celcius
+GCCggtctcGGTTCTaatcaaatatttcaggataaaacaacttatac
+>jt105R | #1 reverse primer for insertion_site_19 | Tm=66.0 Celcius
+TATggtctcTGAGCCagcaccaaaagaaacaatagagtc
+>jt106F | #2 forward primer for insertion_site_19 | Tm=66.0 Celcius
+GCCggtctcGGTTCTcaaatatttcaggataaaacaacttatact
+>jt106R | #2 reverse primer for insertion_site_19 | Tm=68.0 Celcius
+AGGggtctcTGAGCCattagcaccaaaagaaacaatagagtc
+>jt107F | #3 forward primer for insertion_site_19 | Tm=64.0 Celcius
+CATggtctcGGTTCTatatttcaggataaaacaacttatacttgt
+>jt107R | #3 reverse primer for insertion_site_19 | Tm=67.0 Celcius
+ACCggtctcTGAGCCttgattagcaccaaaagaaacaataga
+>jt108F | #4 forward primer for insertion_site_19 | Tm=66.0 Celcius
+CGCggtctcGGTTCTtttcaggataaaacaacttatacttgttta
+>jt108R | #4 reverse primer for insertion_site_19 | Tm=67.0 Celcius
+GCTggtctcTGAGCCtatttgattagcaccaaaagaaacaatag
+>jt109F | #5 forward primer for insertion_site_19 | Tm=64.0 Celcius
+TTTggtctcGGTTCTcaggataaaacaacttatacttgtttac
+>jt109R | #5 reverse primer for insertion_site_19 | Tm=65.0 Celcius
+ATGggtctcTGAGCCaaatatttgattagcaccaaaagaaacaat
+>jt110F | #6 forward primer for insertion_site_19 | Tm=63.0 Celcius
+GTAggtctcGGTTCTgataaaacaacttatacttgtttacttattttaa
+>jt110R | #6 reverse primer for insertion_site_19 | Tm=67.0 Celcius
+CCTggtctcTGAGCCctgaaatatttgattagcaccaaaaga
+>jt111F | #7 forward primer for insertion_site_19 | Tm=65.0 Celcius
+CGCggtctcGGTTCTaaaacaacttatacttgtttacttattttaagaa
+>jt111R | #7 reverse primer for insertion_site_19 | Tm=65.0 Celcius
+TTAggtctcTGAGCCatcctgaaatatttgattagcaccaaa
+>jt112F | #8 forward primer for insertion_site_19 | Tm=63.0 Celcius
+CAAggtctcGGTTCTacaacttatacttgtttacttattttaagaaaaa
+>jt112R | #8 reverse primer for insertion_site_19 | Tm=67.0 Celcius
+CTCggtctcTGAGCCtttatcctgaaatatttgattagcaccaaa
+>jt113F | #9 forward primer for insertion_site_19 | Tm=65.0 Celcius
+CACggtctcGGTTCTacttatacttgtttacttattttaagaaaaactc
+>jt113R | #9 reverse primer for insertion_site_19 | Tm=67.0 Celcius
+GATggtctcTGAGCCtgttttatcctgaaatatttgattagcacc
+>jt114F | #10 forward primer for insertion_site_19 | Tm=65.0 Celcius
+AGGggtctcGGTTCTtatacttgtttacttattttaagaaaaactcc
+>jt114R | #10 reverse primer for insertion_site_19 | Tm=65.0 Celcius
+AATggtctcTGAGCCagttgttttatcctgaaatatttgattagca
+>jt115F | #1 forward primer for insertion_site_20 | Tm=65.0 Celcius
+TGAggtctcGGTTCTcatactgattttaaatatgcagaggtt
+>jt115R | #1 reverse primer for insertion_site_20 | Tm=65.0 Celcius
+TTGggtctcTGAGCCTggagtttttcttaaaataagtaaacaagt
+>jt116F | #2 forward primer for insertion_site_20 | Tm=66.0 Celcius
+GTAggtctcGGTTCTactgattttaaatatgcagaggttcg
+>jt116R | #2 reverse primer for insertion_site_20 | Tm=66.0 Celcius
+CCAggtctcTGAGCCatgTggagtttttcttaaaataagtaaaca
+>jt117F | #3 forward primer for insertion_site_20 | Tm=65.0 Celcius
+AACggtctcGGTTCTgattttaaatatgcagaggttcgtaat
+>jt117R | #3 reverse primer for insertion_site_20 | Tm=66.0 Celcius
+GGAggtctcTGAGCCagtatgTggagtttttcttaaaataagtaa
+>jt118F | #4 forward primer for insertion_site_20 | Tm=64.0 Celcius
+GTAggtctcGGTTCTtttaaatatgcagaggttcgtaatttaatt
+>jt118R | #4 reverse primer for insertion_site_20 | Tm=67.0 Celcius
+CTGggtctcTGAGCCatcagtatgTggagtttttcttaaaataag
+>jt119F | #1 forward primer for insertion_site_21 | Tm=68.0 Celcius
+CACggtctcGGTTCTtggaaagtgcgtaaagctgatg
+>jt119R | #1 reverse primer for insertion_site_21 | Tm=68.0 Celcius
+AGCggtctcTGAGCCgtcaattaaattacgaacctctgc
+>jt120F | #2 forward primer for insertion_site_21 | Tm=67.0 Celcius
+ATGggtctcGGTTCTaaagtgcgtaaagctgatgctatg
+>jt120R | #2 reverse primer for insertion_site_21 | Tm=68.0 Celcius
+TGGggtctcTGAGCCccagtcaattaaattacgaacctc
+>jt121F | #3 forward primer for insertion_site_21 | Tm=67.0 Celcius
+CTAggtctcGGTTCTgtgcgtaaagctgatgctatg
+>jt121R | #3 reverse primer for insertion_site_21 | Tm=67.0 Celcius
+GTAggtctcTGAGCCtttccagtcaattaaattacgaacctc
+>jt122F | #4 forward primer for insertion_site_21 | Tm=67.0 Celcius
+AGCggtctcGGTTCTcgtaaagctgatgctatggaattt
+>jt122R | #4 reverse primer for insertion_site_21 | Tm=67.0 Celcius
+ATGggtctcTGAGCCcactttccagtcaattaaattacgaac
+>jt123F | #5 forward primer for insertion_site_21 | Tm=67.0 Celcius
+CTGggtctcGGTTCTaaagctgatgctatggaattttcc
+>jt123R | #5 reverse primer for insertion_site_21 | Tm=66.0 Celcius
+AAAggtctcTGAGCCacgcactttccagtcaattaaattac
+>jt124F | #6 forward primer for insertion_site_21 | Tm=68.0 Celcius
+GGTggtctcGGTTCTgctgatgctatggaattttcctc
+>jt124R | #6 reverse primer for insertion_site_21 | Tm=65.0 Celcius
+AAAggtctcTGAGCCtttacgcactttccagtcaattaaatt
+>jt125F | #7 forward primer for insertion_site_21 | Tm=65.0 Celcius
+TATggtctcGGTTCTgatgctatggaattttcctctcaa
+>jt125R | #7 reverse primer for insertion_site_21 | Tm=69.0 Celcius
+GTCggtctcTGAGCCagctttacgcactttccagtcaatta
+>jt126F | #8 forward primer for insertion_site_21 | Tm=67.0 Celcius
+TCCggtctcGGTTCTgctatggaattttcctctcaacaa
+>jt126R | #8 reverse primer for insertion_site_21 | Tm=68.0 Celcius
+GTTggtctcTGAGCCatcagctttacgcactttccagt
+>jt127F | #9 forward primer for insertion_site_21 | Tm=66.0 Celcius
+TGAggtctcGGTTCTatggaattttcctctcaacaactg
+>jt127R | #9 reverse primer for insertion_site_21 | Tm=69.0 Celcius
+GGAggtctcTGAGCCagcatcagctttacgcactttc
+>jt128F | #1 forward primer for insertion_site_22 | Tm=67.0 Celcius
+GTGggtctcGGTTCTgatgcgtggattttaattccatct
+>jt128R | #1 reverse primer for insertion_site_22 | Tm=67.0 Celcius
+TTCggtctcTGAGCCactttgcaatgtactcagttgttg
+>jt129F | #2 forward primer for insertion_site_22 | Tm=66.0 Celcius
+CTTggtctcGGTTCTgcgtggattttaattccatctgaa
+>jt129R | #2 reverse primer for insertion_site_22 | Tm=69.0 Celcius
+CGCggtctcTGAGCCatcactttgcaatgtactcagttg
+>jt130F | #3 forward primer for insertion_site_22 | Tm=64.0 Celcius
+TAAggtctcGGTTCTtggattttaattccatctgaattaatctc
+>jt130R | #3 reverse primer for insertion_site_22 | Tm=70.0 Celcius
+CCCggtctcTGAGCCcgcatcactttgcaatgtactc
+>jt131F | #4 forward primer for insertion_site_22 | Tm=64.0 Celcius
+AACggtctcGGTTCTattttaattccatctgaattaatctcagtt
+>jt131R | #4 reverse primer for insertion_site_22 | Tm=68.0 Celcius
+AACggtctcTGAGCCccacgcatcactttgcaatgt
+>jt132F | #5 forward primer for insertion_site_22 | Tm=64.0 Celcius
+CTTggtctcGGTTCTttaattccatctgaattaatctcagtttat
+>jt132R | #5 reverse primer for insertion_site_22 | Tm=68.0 Celcius
+AGTggtctcTGAGCCaatccacgcatcactttgcaatg
+>jt133F | #6 forward primer for insertion_site_22 | Tm=66.0 Celcius
+GACggtctcGGTTCTattccatctgaattaatctcagtttatc
+>jt133R | #6 reverse primer for insertion_site_22 | Tm=68.0 Celcius
+AGCggtctcTGAGCCtaaaatccacgcatcactttgcaa
+>jt134F | #7 forward primer for insertion_site_22 | Tm=65.0 Celcius
+CATggtctcGGTTCTccatctgaattaatctcagtttatcat
+>jt134R | #7 reverse primer for insertion_site_22 | Tm=67.0 Celcius
+ATCggtctcTGAGCCaattaaaatccacgcatcactttgcaa
+>jt135F | #1 forward primer for insertion_site_23 | Tm=64.0 Celcius
+TAAggtctcGGTTCTgataatatatttaatgggattcaaaccagt
+>jt135R | #1 reverse primer for insertion_site_23 | Tm=67.0 Celcius
+ATGggtctcTGAGCCaataccgacaatatcctctagctt
+>jt136F | #2 forward primer for insertion_site_23 | Tm=66.0 Celcius
+ATCggtctcGGTTCTaatatatttaatgggattcaaaccagtgct
+>jt136R | #2 reverse primer for insertion_site_23 | Tm=67.0 Celcius
+TTGggtctcTGAGCCatcaataccgacaatatcctctag
+>jt137F | #3 forward primer for insertion_site_23 | Tm=66.0 Celcius
+AAGggtctcGGTTCTatatttaatgggattcaaaccagtgctaat
+>jt137R | #3 reverse primer for insertion_site_23 | Tm=68.0 Celcius
+AGCggtctcTGAGCCattatcaataccgacaatatcctctag
+>jt138F | #4 forward primer for insertion_site_23 | Tm=68.0 Celcius
+GCGggtctcGGTTCTtttaatgggattcaaaccagtgctaat
+>jt138R | #4 reverse primer for insertion_site_23 | Tm=67.0 Celcius
+CAGggtctcTGAGCCtatattatcaataccgacaatatcctc
+>jt139F | #5 forward primer for insertion_site_23 | Tm=69.0 Celcius
+CCGggtctcGGTTCTaatgggattcaaaccagtgctaatga
+>jt139R | #5 reverse primer for insertion_site_23 | Tm=66.0 Celcius
+ACAggtctcTGAGCCaaatatattatcaataccgacaatatcctc
+>jt140F | #6 forward primer for insertion_site_23 | Tm=67.0 Celcius
+GAAggtctcGGTTCTgggattcaaaccagtgctaatgat
+>jt140R | #6 reverse primer for insertion_site_23 | Tm=64.0 Celcius
+AATggtctcTGAGCCattaaatatattatcaataccgacaatatcc
+>jt141F | #7 forward primer for insertion_site_23 | Tm=66.0 Celcius
+CAAggtctcGGTTCTattcaaaccagtgctaatgatgtc
+>jt141R | #7 reverse primer for insertion_site_23 | Tm=66.0 Celcius
+TTCggtctcTGAGCCcccattaaatatattatcaataccgac
+>jt142F | #8 forward primer for insertion_site_23 | Tm=67.0 Celcius
+CCAggtctcGGTTCTcaaaccagtgctaatgatgtctat
+>jt142R | #8 reverse primer for insertion_site_23 | Tm=66.0 Celcius
+AAGggtctcTGAGCCaatcccattaaatatattatcaataccgac
+>jt143F | #9 forward primer for insertion_site_23 | Tm=65.0 Celcius
+ACTggtctcGGTTCTaccagtgctaatgatgtctatattttt
+>jt143R | #9 reverse primer for insertion_site_23 | Tm=67.0 Celcius
+GACggtctcTGAGCCttgaatcccattaaatatattatcaataccga
+>jt144F | #10 forward primer for insertion_site_23 | Tm=64.0 Celcius
+TTTggtctcGGTTCTagtgctaatgatgtctatatttttgtg
+>jt144R | #10 reverse primer for insertion_site_23 | Tm=67.0 Celcius
+CGAggtctcTGAGCCggtttgaatcccattaaatatattatcaatac
+>jt145F | #11 forward primer for insertion_site_23 | Tm=67.0 Celcius
+TGGggtctcGGTTCTgctaatgatgtctatatttttgtgcc
+>jt145R | #11 reverse primer for insertion_site_23 | Tm=66.0 Celcius
+TTGggtctcTGAGCCactggtttgaatcccattaaatatattatcaata
+>jt146F | #12 forward primer for insertion_site_23 | Tm=64.0 Celcius
+TTTggtctcGGTTCTaatgatgtctatatttttgtgccaact
+>jt146R | #12 reverse primer for insertion_site_23 | Tm=67.0 Celcius
+TCAggtctcTGAGCCagcactggtttgaatcccattaaatatatt
+>jt147F | #13 forward primer for insertion_site_23 | Tm=66.0 Celcius
+CTTggtctcGGTTCTgatgtctatatttttgtgccaactc
+>jt147R | #13 reverse primer for insertion_site_23 | Tm=69.0 Celcius
+CCGggtctcTGAGCCattagcactggtttgaatcccattaaatat
+>jt148F | #14 forward primer for insertion_site_23 | Tm=67.0 Celcius
+CCTggtctcGGTTCTgtctatatttttgtgccaactcatg
+>jt148R | #14 reverse primer for insertion_site_23 | Tm=69.0 Celcius
+GCAggtctcTGAGCCatcattagcactggtttgaatcccat
+>jt149F | #1 forward primer for insertion_site_24 | Tm=66.0 Celcius
+GACggtctcGGTTCTaagaaaggacaagagtacaaaattgaa
+>jt149R | #1 reverse primer for insertion_site_24 | Tm=66.0 Celcius
+GTCggtctcTGAGCCtataaaataatagttttcagtatcctcatg
+>jt150F | #2 forward primer for insertion_site_24 | Tm=65.0 Celcius
+CTAggtctcGGTTCTaaaggacaagagtacaaaattgaaaag
+>jt150R | #2 reverse primer for insertion_site_24 | Tm=65.0 Celcius
+ACTggtctcTGAGCCctttataaaataatagttttcagtatcctc
+>jt151F | #3 forward primer for insertion_site_24 | Tm=67.0 Celcius
+GGAggtctcGGTTCTggacaagagtacaaaattgaaaagg
+>jt151R | #3 reverse primer for insertion_site_24 | Tm=67.0 Celcius
+CCGggtctcTGAGCCtttctttataaaataatagttttcagtatcctc
+>jt152F | #4 forward primer for insertion_site_24 | Tm=67.0 Celcius
+CCGggtctcGGTTCTcaagagtacaaaattgaaaaggaaattac
+>jt152R | #4 reverse primer for insertion_site_24 | Tm=67.0 Celcius
+CGCggtctcTGAGCCtcctttctttataaaataatagttttcagtatc
+>jt153F | #5 forward primer for insertion_site_24 | Tm=65.0 Celcius
+TTCggtctcGGTTCTgagtacaaaattgaaaaggaaattacg
+>jt153R | #5 reverse primer for insertion_site_24 | Tm=66.0 Celcius
+CTGggtctcTGAGCCttgtcctttctttataaaataatagttttcag
+>jt154F | #6 forward primer for insertion_site_24 | Tm=65.0 Celcius
+GTAggtctcGGTTCTtacaaaattgaaaaggaaattacgaagc
+>jt154R | #6 reverse primer for insertion_site_24 | Tm=67.0 Celcius
+GCGggtctcTGAGCCctcttgtcctttctttataaaataatagtt
+>jt155F | #7 forward primer for insertion_site_24 | Tm=67.0 Celcius
+GGGggtctcGGTTCTaaaattgaaaaggaaattacgaagcct
+>jt155R | #7 reverse primer for insertion_site_24 | Tm=66.0 Celcius
+ACGggtctcTGAGCCgtactcttgtcctttctttataaaataata
+>jt156F | #8 forward primer for insertion_site_24 | Tm=66.0 Celcius
+CCTggtctcGGTTCTattgaaaaggaaattacgaagccttat
+>jt156R | #8 reverse primer for insertion_site_24 | Tm=66.0 Celcius
+CAGggtctcTGAGCCtttgtactcttgtcctttctttataaaata
+>jt157F | #1 forward primer for insertion_site_25 | Tm=67.0 Celcius
+GCTggtctcGGTTCTacgagtggtgaggataacttatat
+>jt157R | #1 reverse primer for insertion_site_25 | Tm=66.0 Celcius
+TGTggtctcTGAGCCtgttttaaaataaggcttcgtaatttcc
+>jt158F | #2 forward primer for insertion_site_25 | Tm=67.0 Celcius
+AGGggtctcGGTTCTagtggtgaggataacttatatacttac
+>jt158R | #2 reverse primer for insertion_site_25 | Tm=67.0 Celcius
+CGTggtctcTGAGCCcgttgttttaaaataaggcttcgtaat
+>jt159F | #3 forward primer for insertion_site_25 | Tm=66.0 Celcius
+ACTggtctcGGTTCTggtgaggataacttatatacttacc
+>jt159R | #3 reverse primer for insertion_site_25 | Tm=67.0 Celcius
+GAAggtctcTGAGCCactcgttgttttaaaataaggcttcg
+>jt160F | #4 forward primer for insertion_site_25 | Tm=65.0 Celcius
+TATggtctcGGTTCTgaggataacttatatacttaccgtac
+>jt160R | #4 reverse primer for insertion_site_25 | Tm=67.0 Celcius
+AAGggtctcTGAGCCaccactcgttgttttaaaataaggc
+>jt161F | #5 forward primer for insertion_site_25 | Tm=65.0 Celcius
+TGAggtctcGGTTCTgataacttatatacttaccgtactttc
+>jt161R | #5 reverse primer for insertion_site_25 | Tm=68.0 Celcius
+CTCggtctcTGAGCCctcaccactcgttgttttaaaataag
+>jt162F | #1 forward primer for insertion_site_26 | Tm=68.0 Celcius
+GGTggtctcGGTTCTcgtactttcaagcctaatgcc
+>jt162R | #1 reverse primer for insertion_site_26 | Tm=67.0 Celcius
+ATCggtctcTGAGCCgtaagtatataagttatcctcaccac
+>jt163F | #2 forward primer for insertion_site_26 | Tm=68.0 Celcius
+GCAggtctcGGTTCTactttcaagcctaatgcccga
+>jt163R | #2 reverse primer for insertion_site_26 | Tm=68.0 Celcius
+GACggtctcTGAGCCacggtaagtatataagttatcctcac
+>jt164F | #3 forward primer for insertion_site_26 | Tm=69.0 Celcius
+TCCggtctcGGTTCTttcaagcctaatgcccgagtc
+>jt164R | #3 reverse primer for insertion_site_26 | Tm=67.0 Celcius
+ATGggtctcTGAGCCagtacggtaagtatataagttatcctc
+>jt165F | #4 forward primer for insertion_site_26 | Tm=67.0 Celcius
+TTGggtctcGGTTCTaagcctaatgcccgagtcatt
+>jt165R | #4 reverse primer for insertion_site_26 | Tm=66.0 Celcius
+TGTggtctcTGAGCCgaaagtacggtaagtatataagttatc
+>jt166F | #5 forward primer for insertion_site_26 | Tm=66.0 Celcius
+TAAggtctcGGTTCTcctaatgcccgagtcatttatc
+>jt166R | #5 reverse primer for insertion_site_26 | Tm=67.0 Celcius
+GTGggtctcTGAGCCcttgaaagtacggtaagtatataagtt
+>jt167F | #6 forward primer for insertion_site_26 | Tm=69.0 Celcius
+CCCggtctcGGTTCTaatgcccgagtcatttatccg
+>jt167R | #6 reverse primer for insertion_site_26 | Tm=67.0 Celcius
+TTCggtctcTGAGCCaggcttgaaagtacggtaagtata
+>jt168F | #1 forward primer for insertion_site_27 | Tm=67.0 Celcius
+GGTggtctcGGTTCTcctaaaacaacaaatgaatggcatag
+>jt168R | #1 reverse primer for insertion_site_27 | Tm=67.0 Celcius
+GATggtctcTGAGCCtctaggttttatatctcgtttggg
+>jt169F | #2 forward primer for insertion_site_27 | Tm=65.0 Celcius
+GAAggtctcGGTTCTaaaacaacaaatgaatggcataggtat
+>jt169R | #2 reverse primer for insertion_site_27 | Tm=66.0 Celcius
+ATTggtctcTGAGCCaggtctaggttttatatctcgtttg
+>jt170F | #3 forward primer for insertion_site_27 | Tm=68.0 Celcius
+CGCggtctcGGTTCTacaacaaatgaatggcataggtatg
+>jt170R | #3 reverse primer for insertion_site_27 | Tm=68.0 Celcius
+CCCggtctcTGAGCCtttaggtctaggttttatatctcgttt
+>jt171F | #4 forward primer for insertion_site_27 | Tm=65.0 Celcius
+TTAggtctcGGTTCTacaaatgaatggcataggtatgga
+>jt171R | #4 reverse primer for insertion_site_27 | Tm=68.0 Celcius
+GAGggtctcTGAGCCtgttttaggtctaggttttatatctcg
+>jt172F | #5 forward primer for insertion_site_27 | Tm=67.0 Celcius
+GAAggtctcGGTTCTaatgaatggcataggtatggacg
+>jt172R | #5 reverse primer for insertion_site_27 | Tm=65.0 Celcius
+AATggtctcTGAGCCtgttgttttaggtctaggttttatatc
+>jt173F | #6 forward primer for insertion_site_27 | Tm=69.0 Celcius
+CGAggtctcGGTTCTgaatggcataggtatggacgg
+>jt173R | #6 reverse primer for insertion_site_27 | Tm=66.0 Celcius
+GAAggtctcTGAGCCatttgttgttttaggtctaggttttatatc
+>jt174F | #1 forward primer for insertion_site_28 | Tm=65.0 Celcius
+TTTggtctcGGTTCTcagaaaattattgtaggtgtgctttc
+>jt174R | #1 reverse primer for insertion_site_28 | Tm=68.0 Celcius
+GTAggtctcTGAGCCactcaacccacaattatcgagac
+>jt175F | #2 forward primer for insertion_site_28 | Tm=65.0 Celcius
+AACggtctcGGTTCTaaaattattgtaggtgtgctttcagtt
+>jt175R | #2 reverse primer for insertion_site_28 | Tm=68.0 Celcius
+GTTggtctcTGAGCCctgactcaacccacaattatcg
+>jt176F | #1 forward primer for insertion_site_29 | Tm=69.0 Celcius
+ATCggtctcGGTTCTggtacggctggatactgtg
+>jt176R | #1 reverse primer for insertion_site_29 | Tm=69.0 Celcius
+GGAggtctcTGAGCCgcctgatgaaatcaacgttcc
+>jt177F | #2 forward primer for insertion_site_29 | Tm=67.0 Celcius
+TAAggtctcGGTTCTacggctggatactgtgtgg
+>jt177R | #2 reverse primer for insertion_site_29 | Tm=69.0 Celcius
+TGCggtctcTGAGCCaccgcctgatgaaatcaacgt
+>jt178F | #3 forward primer for insertion_site_29 | Tm=67.0 Celcius
+TAAggtctcGGTTCTgctggatactgtgtggttgc
+>jt178R | #3 reverse primer for insertion_site_29 | Tm=69.0 Celcius
+CAGggtctcTGAGCCcgtaccgcctgatgaaatcaa
+>jt179F | #4 forward primer for insertion_site_29 | Tm=69.0 Celcius
+GCCggtctcGGTTCTggatactgtgtggttgctctt
+>jt179R | #4 reverse primer for insertion_site_29 | Tm=71.0 Celcius
+ACCggtctcTGAGCCagccgtaccgcctgatga
+>jt180F | #5 forward primer for insertion_site_29 | Tm=68.0 Celcius
+AGGggtctcGGTTCTtactgtgtggttgctcttcca
+>jt180R | #5 reverse primer for insertion_site_29 | Tm=71.0 Celcius
+TGAggtctcTGAGCCtccagccgtaccgcctga
+>jt181F | #1 forward primer for insertion_site_30 | Tm=63.0 Celcius
+CTAggtctcGGTTCTtgtaaatattcaatttattatttacaggcaattt
+>jt181R | #1 reverse primer for insertion_site_30 | Tm=68.0 Celcius
+AAGggtctcTGAGCCatcatctggaagagcaaccac
+>jt182F | #2 forward primer for insertion_site_30 | Tm=64.0 Celcius
+TGGggtctcGGTTCTaaatattcaatttattatttacaggcaattttaaac
+>jt182R | #2 reverse primer for insertion_site_30 | Tm=68.0 Celcius
+AAGggtctcTGAGCCacaatcatctggaagagcaacc
+>jt183F | #3 forward primer for insertion_site_30 | Tm=64.0 Celcius
+TGCggtctcGGTTCTtattcaatttattatttacaggcaattttaaact
+>jt183R | #3 reverse primer for insertion_site_30 | Tm=67.0 Celcius
+TAGggtctcTGAGCCtttacaatcatctggaagagcaac
+>jt184F | #4 forward primer for insertion_site_30 | Tm=63.0 Celcius
+ATAggtctcGGTTCTtcaatttattatttacaggcaattttaaactc
+>jt184R | #4 reverse primer for insertion_site_30 | Tm=67.0 Celcius
+CATggtctcTGAGCCatatttacaatcatctggaagagcaac
+>jt185F | #1 forward primer for insertion_site_31 | Tm=68.0 Celcius
+GCTggtctcGGTTCTttccgaggtggttatattgctag
+>jt185R | #1 reverse primer for insertion_site_31 | Tm=67.0 Celcius
+GAAggtctcTGAGCCaacttctccatgtaaggcactaaa
+>jt186F | #2 forward primer for insertion_site_31 | Tm=67.0 Celcius
+AAGggtctcGGTTCTcgaggtggttatattgctagg
+>jt186R | #2 reverse primer for insertion_site_31 | Tm=67.0 Celcius
+TAAggtctcTGAGCCgaaaacttctccatgtaaggcac
+>jt187F | #3 forward primer for insertion_site_31 | Tm=68.0 Celcius
+TCCggtctcGGTTCTggtggttatattgctagggga
+>jt187R | #3 reverse primer for insertion_site_31 | Tm=70.0 Celcius
+GCGggtctcTGAGCCtcggaaaacttctccatgtaagg
+>jt188F | #4 forward primer for insertion_site_31 | Tm=68.0 Celcius
+GGTggtctcGGTTCTggttatattgctaggggaactaag
+>jt188R | #4 reverse primer for insertion_site_31 | Tm=68.0 Celcius
+TTGggtctcTGAGCCacctcggaaaacttctccatg
+>jt189F | #1 forward primer for insertion_site_32 | Tm=65.0 Celcius
+GACggtctcGGTTCTaggaaaattgattttgataatcttgaagaa
+>jt189R | #1 reverse primer for insertion_site_32 | Tm=68.0 Celcius
+CTGggtctcTGAGCCaataggcaagttcttaagcacctt
+>jt190F | #2 forward primer for insertion_site_32 | Tm=65.0 Celcius
+CGTggtctcGGTTCTaaaattgattttgataatcttgaagaagca
+>jt190R | #2 reverse primer for insertion_site_32 | Tm=68.0 Celcius
+ATGggtctcTGAGCCcctaataggcaagttcttaagcac
+>jt191F | #3 forward primer for insertion_site_32 | Tm=64.0 Celcius
+TCTggtctcGGTTCTattgattttgataatcttgaagaagcaaat
+>jt191R | #3 reverse primer for insertion_site_32 | Tm=67.0 Celcius
+CTTggtctcTGAGCCtttcctaataggcaagttcttaagc
+>jt192F | #4 forward primer for insertion_site_32 | Tm=65.0 Celcius
+TCTggtctcGGTTCTgattttgataatcttgaagaagcaaatc
+>jt192R | #4 reverse primer for insertion_site_32 | Tm=67.0 Celcius
+GGAggtctcTGAGCCaattttcctaataggcaagttcttaag
+>jt193F | #1 forward primer for insertion_site_33 | Tm=65.0 Celcius
+AATggtctcGGTTCTaataataaaagagttctgaccccattg
+>jt193R | #1 reverse primer for insertion_site_33 | Tm=66.0 Celcius
+GGTggtctcTGAGCCtacattaacatctattttgtcataaatctc
+>jt194F | #2 forward primer for insertion_site_33 | Tm=65.0 Celcius
+TAAggtctcGGTTCTaataaaagagttctgaccccattg
+>jt194R | #2 reverse primer for insertion_site_33 | Tm=65.0 Celcius
+ACAggtctcTGAGCCatttacattaacatctattttgtcataaatctc
+>jt195F | #3 forward primer for insertion_site_33 | Tm=67.0 Celcius
+TGAggtctcGGTTCTaaaagagttctgaccccattgc
+>jt195R | #3 reverse primer for insertion_site_33 | Tm=64.0 Celcius
+TAGggtctcTGAGCCattatttacattaacatctattttgtcataaatc
+>jt196F | #4 forward primer for insertion_site_33 | Tm=68.0 Celcius
+GTGggtctcGGTTCTagagttctgaccccattgcaa
+>jt196R | #4 reverse primer for insertion_site_33 | Tm=65.0 Celcius
+GAGggtctcTGAGCCtttattatttacattaacatctattttgtcataaatc
+>jt197F | #5 forward primer for insertion_site_33 | Tm=67.0 Celcius
+AAAggtctcGGTTCTgttctgaccccattgcaacg
+>jt197R | #5 reverse primer for insertion_site_33 | Tm=64.0 Celcius
+TTGggtctcTGAGCCtcttttattatttacattaacatctattttgtca
+>jt198F | #6 forward primer for insertion_site_33 | Tm=67.0 Celcius
+ATTggtctcGGTTCTctgaccccattgcaacgtatg
+>jt198R | #6 reverse primer for insertion_site_33 | Tm=64.0 Celcius
+GTTggtctcTGAGCCaactcttttattatttacattaacatctattttg
+>jt199F | #1 forward primer for insertion_site_34 | Tm=68.0 Celcius
+CCGggtctcGGTTCTcaaactgagagtagtgtagaactaatt
+>jt199R | #1 reverse primer for insertion_site_34 | Tm=69.0 Celcius
+CAGggtctcTGAGCCagtatacggataaatgactcggg
+>jt200F | #2 forward primer for insertion_site_34 | Tm=68.0 Celcius
+GTCggtctcGGTTCTactgagagtagtgtagaactaattcc
+>jt200R | #2 reverse primer for insertion_site_34 | Tm=68.0 Celcius
+CGTggtctcTGAGCCttgagtatacggataaatgactcg
+>jt201F | #3 forward primer for insertion_site_34 | Tm=66.0 Celcius
+GATggtctcGGTTCTgagagtagtgtagaactaattcct
+>jt201R | #3 reverse primer for insertion_site_34 | Tm=67.0 Celcius
+GAAggtctcTGAGCCagtttgagtatacggataaatgactc
+>jt202F | #4 forward primer for insertion_site_34 | Tm=66.0 Celcius
+CTGggtctcGGTTCTagtagtgtagaactaattcctttagat
+>jt202R | #4 reverse primer for insertion_site_34 | Tm=68.0 Celcius
+GTGggtctcTGAGCCctcagtttgagtatacggataaatg
+>jt203F | #5 forward primer for insertion_site_34 | Tm=64.0 Celcius
+TATggtctcGGTTCTagtgtagaactaattcctttagatgaa
+>jt203R | #5 reverse primer for insertion_site_34 | Tm=68.0 Celcius
+GGTggtctcTGAGCCactctcagtttgagtatacggata
+>jt204F | #6 forward primer for insertion_site_34 | Tm=66.0 Celcius
+CGAggtctcGGTTCTgtagaactaattcctttagatgaaatac
+>jt204R | #6 reverse primer for insertion_site_34 | Tm=68.0 Celcius
+AGAggtctcTGAGCCactactctcagtttgagtatacgg
+>jt205F | #7 forward primer for insertion_site_34 | Tm=66.0 Celcius
+TGCggtctcGGTTCTgaactaattcctttagatgaaatacga
+>jt205R | #7 reverse primer for insertion_site_34 | Tm=70.0 Celcius
+CCGggtctcTGAGCCtacactactctcagtttgagtatacg
+>jt206F | #8 forward primer for insertion_site_34 | Tm=65.0 Celcius
+TTCggtctcGGTTCTctaattcctttagatgaaatacgagaa
+>jt206R | #8 reverse primer for insertion_site_34 | Tm=67.0 Celcius
+AAGggtctcTGAGCCttctacactactctcagtttgagtata
+>jt207F | #9 forward primer for insertion_site_34 | Tm=63.0 Celcius
+TATggtctcGGTTCTattcctttagatgaaatacgagaaattttt
+>jt207R | #9 reverse primer for insertion_site_34 | Tm=70.0 Celcius
+GCGggtctcTGAGCCtagttctacactactctcagtttgag
+>jt208F | #10 forward primer for insertion_site_34 | Tm=64.0 Celcius
+TTTggtctcGGTTCTcctttagatgaaatacgagaaatttttc
+>jt208R | #10 reverse primer for insertion_site_34 | Tm=67.0 Celcius
+TACggtctcTGAGCCaattagttctacactactctcagtttga
